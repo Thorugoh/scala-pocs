@@ -1,6 +1,6 @@
 
 @main
-def hello(): Unit = 
+def s(): Unit = 
    val name = "Victor"
    val age = 29
    

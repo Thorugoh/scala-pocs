@@ -16,7 +16,7 @@
     "/Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json",
     "--envs-file",
     "/Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json",
-    "/Users/vhugo/repos/scala/foundation/custom-interpolator.scala"
+    "/Users/vhugo/repos/scala/foundation"
   ],
   "version": "1.7.1",
   "bspVersion": "2.1.1",

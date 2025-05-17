@@ -1,0 +1,172 @@
+2025.05.17 20:09:34 INFO  Started: Metals version 1.5.3 in folders '/Users/vhugo/repos/scala/foundation' for client Visual Studio Code 1.100.2.
+2025.05.17 20:09:34 INFO  no build target found for /Users/vhugo/repos/scala/foundation/counter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.17 20:09:34 INFO  Attempting to connect to the build server...
+2025.05.17 20:09:34 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)
+2025.05.17 20:09:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.17 20:09:34 INFO  no build target found for /Users/vhugo/repos/scala/foundation/counter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+May 17, 2025 8:09:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.05.17 20:09:35 INFO  no build target found for /Users/vhugo/repos/scala/foundation/counter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.17 20:09:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/model/core_3/1.7.11/core_3-1.7.11-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_3/1.4.2/core_3-1.4.2-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/client4/upickle_3/4.0.0-RC1/upickle_3-4.0.0-RC1-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_3/1.4.2/ws_3-1.4.2-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/client4/json-common_3/4.0.0-RC1/json-common_3-4.0.0-RC1-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/softwaremill/sttp/client4/core_3/4.0.0-RC1/core_3-4.0.0-RC1-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/client4/json-common_3/4.0.0-RC1/json-common_3-4.0.0-RC1-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/0.7.0/toolkit_3-0.7.0-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/shared/core_3/1.4.2/core_3-1.4.2-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/shared/ws_3/1.4.2/ws_3-1.4.2-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/client4/upickle_3/4.0.0-RC1/upickle_3-4.0.0-RC1-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/model/core_3/1.7.11/core_3-1.7.11-sources.jar
+2025.05.17 20:09:35 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/softwaremill/sttp/client4/core_3/4.0.0-RC1/core_3-4.0.0-RC1-sources.jar
+2025.05.17 20:09:36 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/0.7.0/toolkit_3-0.7.0-sources.jar
+2025.05.17 20:09:36 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/0.7.0/toolkit-test_3-0.7.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/0.7.0/toolkit-test_3-0.7.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/1.1.0/munit_3-1.1.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/1.1.0/munit_3-1.1.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/junit-interface/1.1.0/junit-interface-1.1.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit-diff_3/1.1.0/munit-diff_3-1.1.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloading https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/junit-interface/1.1.0/junit-interface-1.1.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit-diff_3/1.1.0/munit-diff_3-1.1.0.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.pom
+2025.05.17 20:09:36 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/junit-interface/1.1.0/junit-interface-1.1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/1.1.0/munit_3-1.1.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/0.7.0/toolkit-test_3-0.7.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit-diff_3/1.1.0/munit-diff_3-1.1.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/junit-interface/1.1.0/junit-interface-1.1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit-diff_3/1.1.0/munit-diff_3-1.1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit-diff_3/1.1.0/munit-diff_3-1.1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/0.7.0/toolkit-test_3-0.7.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/munit_3/1.1.0/munit_3-1.1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/1.1.0/munit_3-1.1.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/junit-interface/1.1.0/junit-interface-1.1.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/0.7.0/toolkit-test_3-0.7.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit-diff_3/1.1.0/munit-diff_3-1.1.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/munit_3/1.1.0/munit_3-1.1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/junit-interface/1.1.0/junit-interface-1.1.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/0.7.0/toolkit-test_3-0.7.0.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/junit/junit/4.13.2/junit-4.13.2-sources.jar
+2025.05.17 20:09:37 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/
+2025.05.17 20:09:38 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/
+2025.05.17 20:09:38 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml
+2025.05.17 20:09:38 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml
+2025.05.17 20:09:38 INFO  time: Connected to build server in 4.17s
+2025.05.17 20:09:38 INFO  Connected to Build server: scala v1.7.1
+2025.05.17 20:09:39 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:09:39 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.17 20:09:39 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:09:39 INFO  time: compiled foundation_5407af399b in 79ms
+2025.05.17 20:09:40 INFO  Shutting down server
+2025.05.17 20:09:40 INFO  shutting down Metals
+2025.05.17 20:09:40 INFO  Shut down connection with build server.
+2025.05.17 20:09:40 INFO  Exiting server
+2025.05.17 20:09:43 INFO  Started: Metals version 1.5.3 in folders '/Users/vhugo/repos/scala/foundation' for client Visual Studio Code 1.100.2.
+2025.05.17 20:09:46 INFO  no build target found for /Users/vhugo/repos/scala/foundation/counter.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.05.17 20:09:46 INFO  Attempting to connect to the build server...
+2025.05.17 20:09:46 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)
+2025.05.17 20:09:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.17 20:09:46 INFO  time: Connected to build server in 0.65s
+2025.05.17 20:09:46 INFO  Connected to Build server: scala v1.7.1
+2025.05.17 20:09:46 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:09:46 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.17 20:09:46 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:09:47 INFO  time: compiled foundation_5407af399b in 79ms
+2025.05.17 20:09:48 INFO  time: indexed workspace in 1.62s
+2025.05.17 20:09:48 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:09:48 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.17 20:10:10 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:10 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.17 20:10:17 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:17 INFO  time: compiled foundation_5407af399b in 93ms
+2025.05.17 20:10:17 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:17 INFO  time: compiled foundation_5407af399b in 84ms
+2025.05.17 20:10:29 INFO  Disconnecting from scala session...
+2025.05.17 20:10:29 INFO  Shut down connection with build server.
+2025.05.17 20:10:29 INFO  Attempting to connect to the build server...
+2025.05.17 20:10:29 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)
+2025.05.17 20:10:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.17 20:10:29 INFO  time: Connected to build server in 0.62s
+2025.05.17 20:10:29 INFO  Connected to Build server: scala v1.7.1
+2025.05.17 20:10:30 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:30 INFO  time: compiled foundation_5407af399b in 91ms
+2025.05.17 20:10:30 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:30 INFO  time: compiled foundation_5407af399b in 63ms
+2025.05.17 20:10:30 INFO  time: indexed workspace in 0.92s
+2025.05.17 20:10:30 INFO  Disconnecting from scala session...
+2025.05.17 20:10:30 INFO  Shut down connection with build server.
+2025.05.17 20:10:30 INFO  Attempting to connect to the build server...
+2025.05.17 20:10:30 INFO  Scala test classes not supported by server
+2025.05.17 20:10:30 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)
+2025.05.17 20:10:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.17 20:10:30 INFO  time: Connected to build server in 0.58s
+2025.05.17 20:10:31 INFO  Connected to Build server: scala v1.7.1
+2025.05.17 20:10:31 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:31 INFO  time: compiled foundation_5407af399b in 80ms
+2025.05.17 20:10:31 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:31 INFO  time: compiled foundation_5407af399b in 70ms
+2025.05.17 20:10:32 INFO  time: indexed workspace in 0.88s
+2025.05.17 20:10:31 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:31 INFO  time: compiled foundation_5407af399b in 84ms
+May 17, 2025 8:10:47 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-17/r_empty-definition_(foundation_5407af399b)_20-10-47-248.md)
+2025.05.17 20:10:47 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:47 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.17 20:10:55 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:10:55 INFO  time: compiled foundation_5407af399b in 91ms
+2025.05.17 20:11:00 INFO  Disconnecting from scala session...
+2025.05.17 20:11:00 INFO  Shut down connection with build server.
+2025.05.17 20:11:00 INFO  Attempting to connect to the build server...
+2025.05.17 20:11:00 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)
+2025.05.17 20:11:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.05.17 20:11:01 INFO  time: Connected to build server in 1.12s
+2025.05.17 20:11:01 INFO  Connected to Build server: scala v1.7.1
+2025.05.17 20:11:01 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:11:01 INFO  time: compiled foundation_5407af399b in 85ms
+2025.05.17 20:11:01 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:11:01 INFO  time: compiled foundation_5407af399b in 73ms
+2025.05.17 20:11:01 INFO  time: indexed workspace in 0.91s
+2025.05.17 20:11:01 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:11:02 INFO  time: compiled foundation_5407af399b in 89ms
+2025.05.17 20:11:23 INFO  compiling foundation_5407af399b (7 scala sources)
+2025.05.17 20:11:23 INFO  time: compiled foundation_5407af399b in 0.28s
+2025.05.17 20:11:52 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-server.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.05.17 20:11:52 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-client.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.05.17 20:11:52 INFO  Starting debug proxy for [countFiles]
+2025.05.17 20:11:54 INFO  Loaded expression compiler in 1 second
+2025.05.17 20:11:56 INFO  Loaded step filter in 1 second
+2025.05.17 20:11:56 WARN  Found duplicate entry core_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, countFiles)
+2025.05.17 20:11:56 WARN  Found duplicate entry upickle_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, countFiles)
+2025.05.17 20:11:57 INFO  Loaded all sources and classes in 1 second
+2025.05.17 20:11:57 INFO  Initialized Scala 3 decoder in 611 milliseconds
+2025.05.17 20:11:57 INFO  Trying to attach to remote debuggee VM localhost:59840 .
+2025.05.17 20:11:57 INFO  Attaching to debuggee VM succeeded.
+2025.05.17 20:11:58 INFO  Canceling debug proxy for [countFiles]
+2025.05.17 20:11:58 INFO  Closing debug server tcp://0.0.0.0:59837
+2025.05.17 20:12:05 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-server.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.05.17 20:12:05 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-client.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.05.17 20:12:05 INFO  Starting debug proxy for [countFiles]
+2025.05.17 20:12:05 INFO  Loaded expression compiler in 1 millisecond
+2025.05.17 20:12:05 INFO  Loaded step filter in 0 milliseconds
+2025.05.17 20:12:05 WARN  Found duplicate entry core_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, countFiles)
+2025.05.17 20:12:05 WARN  Found duplicate entry upickle_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, countFiles)
+2025.05.17 20:12:05 INFO  Loaded all sources and classes in 568 milliseconds
+2025.05.17 20:12:05 INFO  Initialized Scala 3 decoder in 429 milliseconds
+2025.05.17 20:12:05 INFO  Trying to attach to remote debuggee VM localhost:59857 .
+2025.05.17 20:12:06 INFO  Attaching to debuggee VM succeeded.
+2025.05.17 20:12:28 INFO  Canceling debug proxy for [countFiles]
+2025.05.17 20:12:28 INFO  Closing debug server tcp://0.0.0.0:59854

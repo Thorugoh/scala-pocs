@@ -1,5 +1,4 @@
-//> using scala 3.7.0
 
 @main
-def hello(name: String): Unit =
+def name(name: String): Unit =
    println(s"Hello, $name!")
