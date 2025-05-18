@@ -1,0 +1,376 @@
+2025.05.18 11:10:12 INFO  Started: Metals version 1.5.3 in folders '/Users/vhugo/repos/scala/fp' for client Visual Studio Code 1.100.2.[0m
+2025.05.18 11:10:12 INFO  no build target found for /Users/vhugo/repos/scala/fp/fpDomainModeling.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 11:10:12 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:13 INFO  Running List(/Users/vhugo/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/vhugo/repos/scala/fp)[0m
+2025.05.18 11:10:13 INFO  Attempting to connect to the build server...[0m
+2025.05.18 11:10:13 INFO  Running BSP server List(/Users/vhugo/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/vhugo/repos/scala/fp/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/fp/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/fp/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/fp)[0m
+2025.05.18 11:10:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/fp/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.05.18 11:10:14 INFO  no build target found for /Users/vhugo/repos/scala/fp/fpDomainModeling.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 11:10:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:13 INFO  time: Connected to build server in 0.77s[0m
+2025.05.18 11:10:14 INFO  Connected to Build server: scala-cli v1.8.0[0m
+2025.05.18 11:10:13 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:10:13 INFO  time: compiled fp_63c243c5a1 in 40ms[0m
+2025.05.18 11:10:15 INFO  time: indexed workspace in 1.86s[0m
+2025.05.18 11:10:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:20 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:22 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:22 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+May 18, 2025 11:10:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2025.05.18 11:10:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:36 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:36 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:39 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:39 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:40 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:39 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:45 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:45 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:46 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:47 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:47 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:48 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:54 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:54 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:55 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:10:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:00 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+May 18, 2025 11:11:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 268
+2025.05.18 11:11:00 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:02 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:02 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:03 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:03 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:03 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:04 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:04 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:06 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:06 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:07 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:06 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:07 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:08 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:08 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:09 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:09 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:09 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:10 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:11 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:11 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:12 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:12 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:13 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:13 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:13 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:18 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:11:18 INFO  time: compiled fp_63c243c5a1 in 27ms[0m
+2025.05.18 11:11:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:36 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:36 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:36 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:39 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:40 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:40 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:41 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:41 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:41 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:44 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:44 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:45 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:45 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:46 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:46 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:47 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:54 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:55 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:55 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:55 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:58 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:11:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:00 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:02 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:02 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:02 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:03 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:12:03 INFO  time: compiled fp_63c243c5a1 in 27ms[0m
+2025.05.18 11:12:03 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:03 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:09 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:09 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:10 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:10 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:15 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+May 18, 2025 11:12:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 869
+2025.05.18 11:12:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:20 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:20 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:20 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:24 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:24 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:24 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:25 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:26 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:34 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:12:34 INFO  time: compiled fp_63c243c5a1 in 25ms[0m
+2025.05.18 11:12:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:40 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:41 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/fpDomainModeling.scala[0m
+2025.05.18 11:12:59 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:12:59 INFO  time: compiled fp_63c243c5a1 in 0.21s[0m
+2025.05.18 11:13:14 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:13:14 INFO  time: compiled fp_63c243c5a1 in 0.15s[0m
+2025.05.18 11:13:35 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:13:35 INFO  time: compiled fp_63c243c5a1 in 0.16s[0m
+2025.05.18 11:13:40 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:13:40 INFO  time: compiled fp_63c243c5a1 in 0.16s[0m
+2025.05.18 11:14:06 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:14:06 INFO  time: compiled fp_63c243c5a1 in 0.15s[0m
+2025.05.18 11:14:12 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:14:12 INFO  time: compiled fp_63c243c5a1 in 0.14s[0m
+May 18, 2025 11:14:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2103
+2025.05.18 11:14:34 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:14:34 INFO  time: compiled fp_63c243c5a1 in 87ms[0m
+May 18, 2025 11:14:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/fp/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(fp_63c243c5a1)_11-14-36-549.md)
+2025.05.18 11:14:38 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:14:38 INFO  time: compiled fp_63c243c5a1 in 56ms[0m
+2025.05.18 11:14:44 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:14:44 INFO  time: compiled fp_63c243c5a1 in 0.14s[0m
+2025.05.18 11:15:05 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:15:05 INFO  time: compiled fp_63c243c5a1 in 0.14s[0m
+2025.05.18 11:16:33 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:16:33 INFO  time: compiled fp_63c243c5a1 in 77ms[0m
+2025.05.18 11:16:36 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:16:36 INFO  time: compiled fp_63c243c5a1 in 56ms[0m
+2025.05.18 11:16:46 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:16:46 INFO  time: compiled fp_63c243c5a1 in 64ms[0m
+May 18, 2025 11:16:50 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/fp/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(fp_63c243c5a1)_11-14-36-549.md)
+May 18, 2025 11:16:50 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/fp/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(fp_63c243c5a1)_11-14-36-549.md)
+May 18, 2025 11:16:54 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.AssertionError: assertion failed (full report at: /Users/vhugo/repos/scala/fp/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(fp_63c243c5a1-test)_11-16-54-108.md)
+2025.05.18 11:16:55 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:16:55 INFO  time: compiled fp_63c243c5a1 in 0.16s[0m
+2025.05.18 11:17:18 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:17:18 INFO  time: compiled fp_63c243c5a1 in 0.14s[0m
+2025.05.18 11:17:37 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:17:37 INFO  time: compiled fp_63c243c5a1 in 60ms[0m
+2025.05.18 11:17:51 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:17:51 INFO  time: compiled fp_63c243c5a1 in 0.15s[0m
+2025.05.18 11:20:35 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:20:35 INFO  time: compiled fp_63c243c5a1 in 0.14s[0m
+2025.05.18 11:21:35 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:21:35 INFO  time: compiled fp_63c243c5a1 in 0.19s[0m
+2025.05.18 11:25:44 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:25:44 INFO  time: compiled fp_63c243c5a1 in 67ms[0m
+2025.05.18 11:25:48 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:25:48 INFO  time: compiled fp_63c243c5a1 in 0.16s[0m
+2025.05.18 11:26:00 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:26:00 INFO  time: compiled fp_63c243c5a1 in 89ms[0m
+2025.05.18 11:26:20 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:26:20 INFO  time: compiled fp_63c243c5a1 in 84ms[0m
+2025.05.18 11:26:29 INFO  time: compiled fp_63c243c5a1 in 1ms[0m
+2025.05.18 11:27:40 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:27:40 INFO  time: compiled fp_63c243c5a1 in 75ms[0m
+2025.05.18 11:28:34 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:28:34 INFO  time: compiled fp_63c243c5a1 in 0.16s[0m
+2025.05.18 11:29:08 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:29:08 INFO  time: compiled fp_63c243c5a1 in 0.19s[0m
+2025.05.18 11:29:12 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:29:12 INFO  time: compiled fp_63c243c5a1 in 0.13s[0m
+2025.05.18 11:29:55 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:29:55 INFO  time: compiled fp_63c243c5a1 in 0.22s[0m
+2025.05.18 11:30:00 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:30:00 INFO  time: compiled fp_63c243c5a1 in 0.16s[0m
+2025.05.18 11:30:16 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:30:16 INFO  time: compiled fp_63c243c5a1 in 0.14s[0m
+May 18, 2025 11:30:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4739
+2025.05.18 11:30:22 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:30:22 INFO  time: compiled fp_63c243c5a1 in 63ms[0m
+2025.05.18 11:30:29 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:30:29 INFO  time: compiled fp_63c243c5a1 in 59ms[0m
+2025.05.18 11:30:31 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:30:31 INFO  time: compiled fp_63c243c5a1 in 0.17s[0m
+May 18, 2025 11:30:43 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.IndexOutOfBoundsException: 0 (full report at: /Users/vhugo/repos/scala/fp/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(fp_63c243c5a1)_11-30-43-800.md)
+2025.05.18 11:30:54 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:30:54 INFO  time: compiled fp_63c243c5a1 in 0.16s[0m
+2025.05.18 11:31:14 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:31:14 INFO  time: compiled fp_63c243c5a1 in 71ms[0m
+2025.05.18 11:31:25 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:31:25 INFO  time: compiled fp_63c243c5a1 in 0.15s[0m
+2025.05.18 11:31:38 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:31:38 INFO  time: compiled fp_63c243c5a1 in 0.14s[0m
+2025.05.18 11:34:41 INFO  no build target found for /Users/vhugo/repos/scala/fp/caseClass.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.05.18 11:34:41 WARN  no build target for: /Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:41 INFO  no build target found for /Users/vhugo/repos/scala/fp/caseClass.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.05.18 11:34:41 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:41 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:34:41 INFO  time: compiled fp_63c243c5a1 in 34ms[0m
+2025.05.18 11:34:41 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:42 INFO  time: indexed workspace in 0.84s[0m
+2025.05.18 11:34:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/fp/caseClass.scala[0m
+2025.05.18 11:34:57 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:34:57 INFO  time: compiled fp_63c243c5a1 in 0.11s[0m
+May 18, 2025 11:35:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5855
+2025.05.18 11:35:22 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:35:22 INFO  time: compiled fp_63c243c5a1 in 0.1s[0m
+May 18, 2025 11:36:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6004
+2025.05.18 11:36:03 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:36:03 INFO  time: compiled fp_63c243c5a1 in 0.11s[0m
+2025.05.18 11:36:16 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:36:16 INFO  time: compiled fp_63c243c5a1 in 0.12s[0m
+May 18, 2025 11:36:19 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.StringIndexOutOfBoundsException: Range [180, 186) out of bounds for length 180 (full report at: /Users/vhugo/repos/scala/fp/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(fp_63c243c5a1)_11-36-19-838.md)
+2025.05.18 11:36:57 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:36:57 INFO  time: compiled fp_63c243c5a1 in 0.12s[0m
+2025.05.18 11:37:21 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:37:21 INFO  time: compiled fp_63c243c5a1 in 0.11s[0m
+2025.05.18 11:37:36 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:37:36 INFO  time: compiled fp_63c243c5a1 in 0.11s[0m
+2025.05.18 11:37:54 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:37:54 INFO  time: compiled fp_63c243c5a1 in 0.1s[0m
+2025.05.18 11:38:14 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:38:14 INFO  time: compiled fp_63c243c5a1 in 0.1s[0m
+2025.05.18 11:38:27 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:38:27 INFO  time: compiled fp_63c243c5a1 in 0.1s[0m
+2025.05.18 11:38:35 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:38:35 INFO  time: compiled fp_63c243c5a1 in 43ms[0m
+2025.05.18 11:38:50 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:38:50 INFO  time: compiled fp_63c243c5a1 in 0.1s[0m
+2025.05.18 11:38:51 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:38:51 INFO  time: compiled fp_63c243c5a1 in 78ms[0m
+2025.05.18 11:40:23 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:40:23 INFO  time: compiled fp_63c243c5a1 in 0.12s[0m
+May 18, 2025 11:40:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7347
+2025.05.18 11:40:32 INFO  compiling fp_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:40:32 INFO  time: compiled fp_63c243c5a1 in 0.12s[0m
