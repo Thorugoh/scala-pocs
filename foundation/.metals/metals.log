@@ -308,3 +308,974 @@ WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report a
 2025.05.17 21:47:42 INFO  time: compiled foundation_5407af399b in 0.12s
 2025.05.17 21:48:08 INFO  compiling foundation_5407af399b (1 scala source)
 2025.05.17 21:48:08 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.17 21:49:43 INFO  no build target found for /Users/vhugo/repos/scala/foundation/variance.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.17 21:49:43 WARN  no build target for: /Users/vhugo/repos/scala/foundation/variance.scala
+2025.05.17 21:49:43 INFO  no build target found for /Users/vhugo/repos/scala/foundation/variance.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.17 21:49:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/variance.scala
+2025.05.17 21:49:43 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:49:43 INFO  time: compiled foundation_5407af399b in 52ms
+2025.05.17 21:49:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/variance.scala
+2025.05.17 21:49:44 INFO  time: indexed workspace in 0.82s
+2025.05.17 21:49:44 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/variance.scala
+2025.05.17 21:49:46 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/variance.scala
+May 17, 2025 9:49:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5170
+2025.05.17 21:49:46 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/variance.scala
+2025.05.17 21:49:47 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/variance.scala
+2025.05.17 21:49:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:49:56 INFO  time: compiled foundation_5407af399b in 79ms
+May 17, 2025 9:50:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5366
+May 17, 2025 9:50:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5421
+2025.05.17 21:51:01 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:51:01 INFO  time: compiled foundation_5407af399b in 96ms
+2025.05.17 21:52:46 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:52:46 INFO  time: compiled foundation_5407af399b in 80ms
+2025.05.17 21:52:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:52:56 INFO  time: compiled foundation_5407af399b in 71ms
+2025.05.17 21:53:01 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:53:01 INFO  time: compiled foundation_5407af399b in 80ms
+2025.05.17 21:53:25 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:53:25 INFO  time: compiled foundation_5407af399b in 86ms
+2025.05.17 21:53:32 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:53:32 INFO  time: compiled foundation_5407af399b in 79ms
+May 17, 2025 9:53:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6338
+2025.05.17 21:54:08 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:54:08 INFO  time: compiled foundation_5407af399b in 83ms
+2025.05.17 21:54:34 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:54:34 INFO  time: compiled foundation_5407af399b in 83ms
+2025.05.17 21:57:30 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:57:30 INFO  time: compiled foundation_5407af399b in 0.19s
+2025.05.17 21:58:26 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 21:58:26 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.17 22:06:22 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 22:06:22 INFO  time: compiled foundation_5407af399b in 0.2s
+2025.05.17 22:06:35 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 22:06:35 INFO  time: compiled foundation_5407af399b in 62ms
+2025.05.17 22:06:40 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 22:06:40 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.17 22:06:50 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 22:06:50 INFO  time: compiled foundation_5407af399b in 60ms
+2025.05.17 22:06:54 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.17 22:06:54 INFO  time: compiled foundation_5407af399b in 0.11s
+May 17, 2025 10:43:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8034
+May 18, 2025 3:41:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8040
+May 18, 2025 5:57:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8043
+May 18, 2025 5:57:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8044
+May 18, 2025 5:57:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8046
+May 18, 2025 6:41:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8049
+May 18, 2025 6:41:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8050
+May 18, 2025 6:41:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8052
+May 18, 2025 6:41:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8053
+2025.05.18 08:31:28 INFO  no build target found for /Users/vhugo/repos/scala/foundation/helloInteractive.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 08:31:28 WARN  no build target for: /Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:31:28 INFO  no build target found for /Users/vhugo/repos/scala/foundation/helloInteractive.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 08:31:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:31:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:31:28 INFO  time: compiled foundation_5407af399b in 51ms
+2025.05.18 08:31:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:31:29 INFO  time: indexed workspace in 0.85s
+2025.05.18 08:31:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:31:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:31:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:31:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:31:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/helloInteractive.scala
+2025.05.18 08:32:36 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:32:36 INFO  time: compiled foundation_5407af399b in 0.27s
+2025.05.18 08:32:55 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:32:55 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 08:41:40 INFO  no build target found for /Users/vhugo/repos/scala/foundation/controlStructures.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 08:41:40 WARN  no build target for: /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:40 INFO  no build target found for /Users/vhugo/repos/scala/foundation/controlStructures.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 08:41:40 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:41 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:41:41 INFO  time: compiled foundation_5407af399b in 51ms
+2025.05.18 08:41:41 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:42 INFO  time: indexed workspace in 1.28s
+2025.05.18 08:41:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:47 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:47 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:48 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:48 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:49 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:50 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:50 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:50 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:54 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:55 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:55 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:55 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:41:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:09 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:09 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:42:09 INFO  time: compiled foundation_5407af399b in 34ms
+2025.05.18 08:42:09 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:15 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:15 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:22 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:25 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:26 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:26 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:26 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:42:27 INFO  time: compiled foundation_5407af399b in 34ms
+2025.05.18 08:42:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+May 18, 2025 8:42:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9176
+2025.05.18 08:42:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:42 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 08:42:43 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/controlStructures.scala
+May 18, 2025 8:42:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:752)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:554)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2238)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at scala.meta.internal.parsers.ScalametaParser$XtensionToken.is(ScalametaParser.scala:403)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$peek(ScalametaParser.scala:417)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParam$12(ScalametaParser.scala:3162)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParam$1(ScalametaParser.scala:3160)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.termParam(ScalametaParser.scala:3100)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$3(ScalametaParser.scala:3068)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$3$adapted(ScalametaParser.scala:3068)
+	at scala.meta.internal.parsers.ScalametaParser.iter$1(ScalametaParser.scala:630)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1(ScalametaParser.scala:635)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1$adapted(ScalametaParser.scala:623)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:623)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparatedWithIndex(ScalametaParser.scala:644)
+	at scala.meta.internal.parsers.ScalametaParser.parseParams$1(ScalametaParser.scala:3068)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$4(ScalametaParser.scala:3090)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$inParensAfterOpenOr(ScalametaParser.scala:246)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$inParensOnOpenOr(ScalametaParser.scala:237)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$1(ScalametaParser.scala:3092)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.termParamClauseOnParen(ScalametaParser.scala:3056)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClausesOnParen$1(ScalametaParser.scala:3041)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClausesOnParen$1$adapted(ScalametaParser.scala:3035)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.termParamClausesOnParen(ScalametaParser.scala:3035)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$memberParamClauseGroupOnParen$1(ScalametaParser.scala:2972)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.memberParamClauseGroupOnParen(ScalametaParser.scala:2972)
+	at scala.meta.internal.parsers.ScalametaParser.onFirstParen$1(ScalametaParser.scala:2995)
+	at scala.meta.internal.parsers.ScalametaParser.memberParamClauseGroup(ScalametaParser.scala:3002)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$memberParamClauseGroups$1(ScalametaParser.scala:3016)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$memberParamClauseGroups$1$adapted(ScalametaParser.scala:3014)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.memberParamClauseGroups(ScalametaParser.scala:3014)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3726)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:384)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:389)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3713)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3684)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3380)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tmplDef$1(ScalametaParser.scala:3764)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:391)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3757)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3751)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4256)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4250)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4243)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1(ScalametaParser.scala:4232)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1$adapted(ScalametaParser.scala:4232)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4232)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4402)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4405)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4370)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4408)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:114)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:111)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:60)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:55)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:111)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:30)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:37)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputOffset.safeParse(ScalametaCommonEnrichments.scala:602)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:219)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:210)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:604)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+May 18, 2025 8:42:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:752)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:554)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2238)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at scala.meta.internal.parsers.ScalametaParser$XtensionToken.is(ScalametaParser.scala:403)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$peek(ScalametaParser.scala:417)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParam$12(ScalametaParser.scala:3162)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParam$1(ScalametaParser.scala:3160)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.termParam(ScalametaParser.scala:3100)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$3(ScalametaParser.scala:3068)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$3$adapted(ScalametaParser.scala:3068)
+	at scala.meta.internal.parsers.ScalametaParser.iter$1(ScalametaParser.scala:630)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1(ScalametaParser.scala:635)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tokenSeparated$1$adapted(ScalametaParser.scala:623)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.tokenSeparated(ScalametaParser.scala:623)
+	at scala.meta.internal.parsers.ScalametaParser.commaSeparatedWithIndex(ScalametaParser.scala:644)
+	at scala.meta.internal.parsers.ScalametaParser.parseParams$1(ScalametaParser.scala:3068)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$4(ScalametaParser.scala:3090)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$inParensAfterOpenOr(ScalametaParser.scala:246)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$inParensOnOpenOr(ScalametaParser.scala:237)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClauseOnParen$1(ScalametaParser.scala:3092)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.termParamClauseOnParen(ScalametaParser.scala:3056)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClausesOnParen$1(ScalametaParser.scala:3041)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$termParamClausesOnParen$1$adapted(ScalametaParser.scala:3035)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.termParamClausesOnParen(ScalametaParser.scala:3035)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$memberParamClauseGroupOnParen$1(ScalametaParser.scala:2972)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.memberParamClauseGroupOnParen(ScalametaParser.scala:2972)
+	at scala.meta.internal.parsers.ScalametaParser.onFirstParen$1(ScalametaParser.scala:2995)
+	at scala.meta.internal.parsers.ScalametaParser.memberParamClauseGroup(ScalametaParser.scala:3002)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$memberParamClauseGroups$1(ScalametaParser.scala:3016)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$memberParamClauseGroups$1$adapted(ScalametaParser.scala:3014)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.memberParamClauseGroups(ScalametaParser.scala:3014)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3726)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:384)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPos(ScalametaParser.scala:389)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3713)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3684)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3380)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tmplDef$1(ScalametaParser.scala:3764)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:391)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3757)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3751)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4256)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4250)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:231)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:230)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4243)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1(ScalametaParser.scala:4232)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1$adapted(ScalametaParser.scala:4232)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4232)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4402)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4405)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4370)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4408)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:114)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:111)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:60)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:55)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:111)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:30)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:37)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputOffset.safeParse(ScalametaCommonEnrichments.scala:602)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:219)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:210)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:170)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:604)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2025.05.18 08:43:08 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:43:08 INFO  time: compiled foundation_5407af399b in 55ms
+2025.05.18 08:44:19 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:44:19 INFO  time: compiled foundation_5407af399b in 56ms
+2025.05.18 08:44:32 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:44:32 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.18 08:44:35 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:44:35 INFO  time: compiled foundation_5407af399b in 94ms
+2025.05.18 08:44:42 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:44:42 INFO  time: compiled foundation_5407af399b in 62ms
+2025.05.18 08:44:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:44:44 INFO  time: compiled foundation_5407af399b in 95ms
+May 18, 2025 8:44:55 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+May 18, 2025 8:45:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:45:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:45:39 INFO  time: compiled foundation_5407af399b in 0.12s
+May 18, 2025 8:45:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10489
+2025.05.18 08:45:46 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:45:46 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.18 08:45:54 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:45:54 INFO  time: compiled foundation_5407af399b in 93ms
+2025.05.18 08:46:02 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:46:02 INFO  time: compiled foundation_5407af399b in 95ms
+2025.05.18 08:47:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:47:27 INFO  time: compiled foundation_5407af399b in 95ms
+2025.05.18 08:47:37 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:47:37 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 08:47:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:47:44 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 08:47:47 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:47:47 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:47:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:47:56 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:47:56 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:48:02 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:48:02 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:48:02 INFO  time: compiled foundation_5407af399b in 0.15s
+May 18, 2025 8:48:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11198
+2025.05.18 08:48:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:48:21 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:48:21 INFO  time: compiled foundation_5407af399b in 0.12s
+May 18, 2025 8:48:44 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.IndexOutOfBoundsException: 0 (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(foundation_5407af399b)_08-48-44-493.md)
+2025.05.18 08:48:55 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:48:55 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:48:55 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 08:49:16 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:49:16 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.05.18 08:49:16 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:49:16 INFO  time: compiled foundation_5407af399b in 0.13s
+May 18, 2025 8:49:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11382
+May 18, 2025 8:49:38 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:49:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:49:39 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:49:41 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:49:41 INFO  time: compiled foundation_5407af399b in 97ms
+2025.05.18 08:49:47 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:49:47 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 08:49:53 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:49:53 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:49:53 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:49:55 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:49:55 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:49:55 INFO  time: compiled foundation_5407af399b in 0.1s
+May 18, 2025 8:50:49 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Predef.print(). (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-50-49-756.md)
+2025.05.18 08:51:30 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:51:30 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:51:30 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 08:51:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:51:44 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:51:44 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:51:46 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:51:46 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:51:46 INFO  time: compiled foundation_5407af399b in 0.1s
+May 18, 2025 8:51:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+May 18, 2025 8:51:55 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:52:01 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:52:01 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:52:01 INFO  time: compiled foundation_5407af399b in 0.12s
+May 18, 2025 8:52:21 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+May 18, 2025 8:52:21 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:52:22 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:52:22 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:52:22 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:52:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:52:39 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:52:39 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:52:42 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:52:42 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:52:42 INFO  time: compiled foundation_5407af399b in 99ms
+2025.05.18 08:53:11 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:53:11 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:53:11 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:53:22 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:53:22 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:53:22 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:53:30 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:53:30 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.18 08:53:30 INFO  time: compiled foundation_5407af399b in 0.12s
+May 18, 2025 8:53:44 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:53:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:53:44 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 08:53:44 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 08:54:50 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:54:50 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 08:54:50 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 08:55:03 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:55:03 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 08:55:03 INFO  time: compiled foundation_5407af399b in 0.12s
+May 18, 2025 8:55:40 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:56:12 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:56:12 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 08:56:12 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 08:57:58 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:57:58 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 08:57:58 INFO  time: compiled foundation_5407af399b in 0.15s
+May 18, 2025 8:58:59 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:59:06 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:59:06 INFO  time: compiled foundation_5407af399b in 76ms
+2025.05.18 08:59:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:59:27 INFO  time: compiled foundation_5407af399b in 74ms
+May 18, 2025 8:59:31 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:59:31 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:59:31 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 08:59:31 INFO  time: compiled foundation_5407af399b in 0.14s
+May 18, 2025 8:59:38 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+May 18, 2025 8:59:38 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 08:59:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 08:59:39 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 08:59:39 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 09:00:15 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:00:15 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:00:15 INFO  time: compiled foundation_5407af399b in 0.14s
+May 18, 2025 9:01:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+May 18, 2025 9:01:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 09:01:42 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:01:42 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:01:42 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 09:01:51 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:01:51 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:01:51 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 09:02:16 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:02:16 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:02:16 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 09:02:17 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-server.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.05.18 09:02:17 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-client.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.05.18 09:02:17 INFO  Starting debug proxy for [controlStructures]
+2025.05.18 09:02:16 INFO  Loaded expression compiler in 0 milliseconds
+2025.05.18 09:02:16 INFO  Loaded step filter in 0 milliseconds
+2025.05.18 09:02:16 WARN  Found duplicate entry core_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, controlStructures)
+2025.05.18 09:02:16 WARN  Found duplicate entry upickle_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, controlStructures)
+2025.05.18 09:02:18 INFO  Loaded all sources and classes in 1 second
+2025.05.18 09:02:18 INFO  Initialized Scala 3 decoder in 430 milliseconds
+2025.05.18 09:02:18 INFO  Trying to attach to remote debuggee VM localhost:62855 .
+2025.05.18 09:02:18 INFO  Attaching to debuggee VM succeeded.
+2025.05.18 09:02:57 INFO  Canceling debug proxy for [controlStructures]
+2025.05.18 09:02:57 INFO  Closing debug server tcp://0.0.0.0:62852
+2025.05.18 09:03:07 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-server.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-server.trace.json
+2025.05.18 09:03:07 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/dap-client.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/dap-client.trace.json
+2025.05.18 09:03:07 INFO  Starting debug proxy for [controlStructures]
+2025.05.18 09:03:07 INFO  Loaded expression compiler in 1 millisecond
+2025.05.18 09:03:07 INFO  Loaded step filter in 0 milliseconds
+2025.05.18 09:03:07 WARN  Found duplicate entry core_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, controlStructures)
+2025.05.18 09:03:07 WARN  Found duplicate entry upickle_3 in debuggee MainClassDebugAdapter(foundation_5407af399b, controlStructures)
+2025.05.18 09:03:07 INFO  Loaded all sources and classes in 536 milliseconds
+2025.05.18 09:03:07 INFO  Initialized Scala 3 decoder in 392 milliseconds
+2025.05.18 09:03:07 INFO  Trying to attach to remote debuggee VM localhost:62864 .
+2025.05.18 09:03:07 INFO  Attaching to debuggee VM succeeded.
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:20 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:33 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:33 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:33 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:33 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:39 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:39 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:39 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:39 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:39 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:45 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:47 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:47 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:47 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:47 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:48 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:03:57 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:57 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:03:57 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:03:57 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:02 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:02 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:02 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:02 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:06 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:07 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:07 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:07 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:07 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:07 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:13 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:15 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:16 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:16 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.IterableOps$WithFilter.$anonfun$withFilter$1$adapted(scala.collection.IterableOps$WithFilter, scala.Function1, java.lang.Object)
+2025.05.18 09:04:16 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of class scala.collection.Iterator$$anon$6 (loaded by instance of jdk.internal.loader.ClassLoaders$AppClassLoader(id=581))
+2025.05.18 09:04:16 WARN  Unexpected exception com.microsoft.java.debug.core.DebugException: ch.epfl.scala.decoder.NotFoundException: Cannot find binary symbol of scala.collection.AbstractIterable.foreach(scala.Function1)
+2025.05.18 09:04:17 INFO  Canceling debug proxy for [controlStructures]
+2025.05.18 09:04:16 INFO  Closing debug server tcp://0.0.0.0:62861
+2025.05.18 09:04:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:04:27 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:04:27 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 09:53:08 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:53:08 INFO  time: compiled foundation_5407af399b in 87ms
+2025.05.18 09:53:17 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:53:17 INFO  time: compiled foundation_5407af399b in 76ms
+2025.05.18 09:53:20 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:53:20 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:53:20 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 09:53:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:53:28 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:53:28 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 09:54:01 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:54:01 INFO  time: compiled foundation_5407af399b in 0.18s
+2025.05.18 09:54:01 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:54:11 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:54:11 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+May 18, 2025 9:54:11 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 09:54:16 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:54:18 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:54:19 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:54:19 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:54:21 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:54:33 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:57:56 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:00 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:08 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:10 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:10 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+May 18, 2025 9:58:10 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 09:58:10 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:12 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:14 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:14 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:58:14 INFO  time: compiled foundation_5407af399b in 84ms
+2025.05.18 09:58:14 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:22 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:22 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:23 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:24 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:25 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:26 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:32 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:58:45 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:59:03 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:59:04 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:59:05 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+2025.05.18 09:59:05 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/controlStructures.scala
+May 18, 2025 9:59:05 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 09:59:05 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:59:05 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:59:05 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 09:59:14 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 09:59:14 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 09:59:14 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:00:15 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:00:15 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:00:15 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:00:50 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:00:50 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:00:50 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:06:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:06:21 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:06:21 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.05.18 10:06:35 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:06:35 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:06:35 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:06:46 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:06:46 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:06:46 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:08:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:08:39 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:08:39 INFO  time: compiled foundation_5407af399b in 0.15s
+May 18, 2025 10:09:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16880
+2025.05.18 10:09:26 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:09:26 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:09:26 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:09:45 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:09:45 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:09:45 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:10:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:10:44 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:10:44 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:11:08 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:11:08 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:11:08 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:11:15 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:11:15 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:11:15 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 10:11:19 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:11:19 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:11:19 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:12:45 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:12:45 INFO  time: compiled foundation_5407af399b in 80ms
+2025.05.18 10:13:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:13:28 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:13:28 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:13:37 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:13:37 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:13:37 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:13:53 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:13:53 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:13:53 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:15:03 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:15:03 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:15:03 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:16:06 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:16:06 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:16:06 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:16:30 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:16:30 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:16:30 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:16:38 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:16:38 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:16:38 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:16:41 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:16:41 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:16:41 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:16:45 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:16:45 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:16:45 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:16:47 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:16:47 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:16:47 INFO  time: compiled foundation_5407af399b in 0.14s
+May 18, 2025 10:18:09 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 10:18:36 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:18:36 INFO  time: compiled foundation_5407af399b in 90ms
+2025.05.18 10:18:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:18:56 INFO  time: compiled foundation_5407af399b in 89ms
+2025.05.18 10:20:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:20:21 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:20:21 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:20:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:20:28 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:20:28 INFO  time: compiled foundation_5407af399b in 0.14s
+May 18, 2025 10:20:57 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.IndexOutOfBoundsException: 0 (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(foundation_5407af399b)_10-20-57-723.md)
+May 18, 2025 10:20:58 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.IndexOutOfBoundsException: 0 (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(foundation_5407af399b)_10-20-58-339.md)
+2025.05.18 10:21:35 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:21:35 INFO  time: compiled foundation_5407af399b in 0.18s
+2025.05.18 10:21:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/project.scala
+2025.05.18 10:21:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/project.scala
+May 18, 2025 10:22:11 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Predef.String# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-22-11-030.md)
+2025.05.18 10:22:11 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:22:11 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:22:11 INFO  time: compiled foundation_5407af399b in 0.2s
+2025.05.18 10:22:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:22:56 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:22:56 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:23:05 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:23:05 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:23:05 INFO  time: compiled foundation_5407af399b in 0.16s
+May 18, 2025 10:23:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20690
+2025.05.18 10:23:25 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:23:25 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:23:25 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:23:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:23:27 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:23:27 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 10:23:35 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:23:35 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:23:35 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:23:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:23:56 INFO  time: compiled foundation_5407af399b in 0.14s
+May 18, 2025 10:23:57 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+May 18, 2025 10:23:57 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 10:23:58 INFO  time: compiled foundation_5407af399b in 4ms
+2025.05.18 10:24:05 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:24:05 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:24:09 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:24:09 INFO  time: compiled foundation_5407af399b in 70ms
+May 18, 2025 10:24:15 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.IndexOutOfBoundsException: 1 (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(foundation_5407af399b)_10-24-15-610.md)
+2025.05.18 10:24:17 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:24:17 INFO  time: compiled foundation_5407af399b in 79ms
+May 18, 2025 10:24:18 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.IndexOutOfBoundsException: 1 (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_compiler-error_(foundation_5407af399b)_10-24-18-909.md)
+2025.05.18 10:24:19 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:24:19 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:24:19 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.18 10:24:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:24:21 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:24:21 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:26:10 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:26:10 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:26:10 INFO  time: compiled foundation_5407af399b in 0.17s
+May 18, 2025 10:26:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21670
+2025.05.18 10:26:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:26:44 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:26:44 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:27:05 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:27:05 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:27:05 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.05.18 10:27:13 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:27:13 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:27:13 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:27:25 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:27:25 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:27:25 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:27:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:27:27 INFO  time: compiled foundation_5407af399b in 61ms
+2025.05.18 10:27:31 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:27:31 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:27:31 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:27:54 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:27:54 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:27:54 INFO  time: compiled foundation_5407af399b in 0.16s
+May 18, 2025 10:27:58 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 10:28:07 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:28:07 INFO  time: compiled foundation_5407af399b in 0.15s
+May 18, 2025 10:28:19 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 10:28:19 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:28:19 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:28:19 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:28:33 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:28:33 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:28:33 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.05.18 10:28:54 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:28:54 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:28:54 INFO  time: compiled foundation_5407af399b in 0.15s
+May 18, 2025 10:29:04 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Unit# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-29-04-281.md)
+2025.05.18 10:29:05 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:29:05 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:29:05 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.18 10:29:25 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:29:25 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:29:25 INFO  time: compiled foundation_5407af399b in 0.15s
+May 18, 2025 10:29:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+May 18, 2025 10:29:39 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_08-44-55-350.md)
+2025.05.18 10:29:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:29:39 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:29:39 INFO  time: compiled foundation_5407af399b in 0.17s
+May 18, 2025 10:29:45 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Matchable# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-29-45-325.md)
+May 18, 2025 10:29:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Matchable# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-29-45-325.md)
+May 18, 2025 10:29:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Matchable# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-29-45-325.md)
+May 18, 2025 10:29:47 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Matchable# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-29-45-325.md)
+May 18, 2025 10:29:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/Matchable# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-29-45-325.md)
+2025.05.18 10:30:43 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:30:43 WARN  there were 2 deprecation warnings; re-run with -deprecation for details
+2025.05.18 10:30:43 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.05.18 10:30:51 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:30:51 INFO  time: compiled foundation_5407af399b in 87ms
+May 18, 2025 10:30:53 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/package.List# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-30-53-563.md)
+May 18, 2025 10:30:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: scala/package.List# (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-30-53-563.md)
+2025.05.18 10:30:55 INFO  time: compiled foundation_5407af399b in 3ms
+2025.05.18 10:33:19 INFO  no build target found for /Users/vhugo/repos/scala/foundation/tryCatchFinally.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 10:33:19 WARN  no build target for: /Users/vhugo/repos/scala/foundation/tryCatchFinally.scala
+2025.05.18 10:33:19 INFO  no build target found for /Users/vhugo/repos/scala/foundation/tryCatchFinally.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 10:33:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/tryCatchFinally.scala
+2025.05.18 10:33:19 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:33:19 INFO  no build target found for /Users/vhugo/repos/scala/foundation/tryCatchFinally.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 10:33:19 INFO  time: compiled foundation_5407af399b in 57ms
+2025.05.18 10:33:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/tryCatchFinally.scala
+2025.05.18 10:33:20 INFO  time: indexed workspace in 0.87s
+2025.05.18 10:33:20 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/tryCatchFinally.scala
+2025.05.18 10:33:24 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/tryCatchFinally.scala
+May 18, 2025 10:33:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23081
+2025.05.18 10:34:08 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:34:08 INFO  time: compiled foundation_5407af399b in 62ms
+2025.05.18 10:34:58 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:34:58 INFO  time: compiled foundation_5407af399b in 49ms
+2025.05.18 10:35:04 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:35:04 INFO  time: compiled foundation_5407af399b in 70ms
+2025.05.18 10:35:12 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:35:12 INFO  time: compiled foundation_5407af399b in 46ms
+May 18, 2025 10:35:16 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-35-16-002.md)
+2025.05.18 10:35:19 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:35:19 INFO  time: compiled foundation_5407af399b in 97ms
+2025.05.18 10:35:32 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:35:32 INFO  time: compiled foundation_5407af399b in 98ms
+2025.05.18 10:35:41 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:35:41 INFO  time: compiled foundation_5407af399b in 67ms
+2025.05.18 10:36:04 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:36:04 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.18 10:36:24 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/tryCatchFinally.scala
+2025.05.18 10:36:24 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:36:24 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.18 10:36:32 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:36:32 INFO  time: compiled foundation_5407af399b in 55ms
+2025.05.18 10:36:50 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:36:50 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.18 10:36:52 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:36:52 INFO  time: compiled foundation_5407af399b in 78ms
+2025.05.18 10:37:22 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:37:22 INFO  time: compiled foundation_5407af399b in 0.11s
+May 18, 2025 10:41:43 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-35-16-002.md)
+May 18, 2025 10:41:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-18/r_empty-definition_(foundation_5407af399b)_10-35-16-002.md)
+2025.05.18 10:43:49 INFO  no build target found for /Users/vhugo/repos/scala/foundation/while.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 10:43:49 WARN  no build target for: /Users/vhugo/repos/scala/foundation/while.scala
+2025.05.18 10:43:49 INFO  no build target found for /Users/vhugo/repos/scala/foundation/while.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.18 10:43:49 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/while.scala
+2025.05.18 10:43:50 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:43:50 INFO  time: compiled foundation_5407af399b in 39ms
+2025.05.18 10:43:50 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/while.scala
+2025.05.18 10:43:51 INFO  time: indexed workspace in 0.85s
+2025.05.18 10:43:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/while.scala
+2025.05.18 10:43:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/while.scala
+May 18, 2025 10:44:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24903
+2025.05.18 10:44:35 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:44:35 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 10:44:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:44:56 INFO  time: compiled foundation_5407af399b in 50ms
+2025.05.18 10:45:01 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:45:01 INFO  time: compiled foundation_5407af399b in 42ms
+2025.05.18 10:46:09 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:46:09 INFO  time: compiled foundation_5407af399b in 60ms
+2025.05.18 10:46:12 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:46:12 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.18 10:46:16 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:46:16 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.18 10:46:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:46:28 INFO  time: compiled foundation_5407af399b in 61ms
+2025.05.18 10:46:36 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:46:36 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 10:46:43 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:46:43 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 10:46:56 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:46:56 INFO  time: compiled foundation_5407af399b in 0.19s
+2025.05.18 10:47:00 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:47:00 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.18 10:47:06 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:47:06 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.18 10:47:13 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:47:13 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.18 10:47:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:47:27 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.18 10:47:29 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:47:29 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.18 10:47:55 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.18 10:47:55 INFO  time: compiled foundation_5407af399b in 0.11s
