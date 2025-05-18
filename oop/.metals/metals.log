@@ -1,0 +1,568 @@
+2025.05.18 10:52:02 INFO  Started: Metals version 1.5.3 in folders '/Users/vhugo/repos/scala/oop' for client Visual Studio Code 1.100.2.[0m
+2025.05.18 10:52:03 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/oop/traits.scala[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  Running List(/Users/vhugo/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/vhugo/repos/scala/oop)[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  Attempting to connect to the build server...[0m
+2025.05.18 10:52:05 INFO  Running BSP server List(/Users/vhugo/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/vhugo/repos/scala/oop/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/oop/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/oop/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/oop)[0m
+2025.05.18 10:52:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/oop/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:04 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:06 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:06 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:05 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:06 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:06 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:06 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:06 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:06 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:06 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:06 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:07 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:07 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:07 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:07 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:07 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:07 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom.sha1[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom.sha1[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom.sha1[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom.sha1[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom[0m
+2025.05.18 10:52:08 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom.sha1[0m
+2025.05.18 10:52:09 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom.sha1[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.pom[0m
+2025.05.18 10:52:09 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:08 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom.sha1[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom.sha1[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom.sha1[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom[0m
+2025.05.18 10:52:09 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom.sha1[0m
+2025.05.18 10:52:09 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom.sha1[0m
+2025.05.18 10:52:09 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom[0m
+2025.05.18 10:52:10 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom.sha1[0m
+2025.05.18 10:52:10 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.5.18/logback-parent-1.5.18.pom[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom.sha1[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom.sha1[0m
+2025.05.18 10:52:10 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom.sha1[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.pom[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:11 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom[0m
+2025.05.18 10:52:12 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:13 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom.sha1[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom[0m
+2025.05.18 10:52:13 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/util/directories/0.1.2/directories-0.1.2.pom[0m
+2025.05.18 10:52:14 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom.sha1[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom[0m
+2025.05.18 10:52:15 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:14 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom[0m
+2025.05.18 10:52:15 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom[0m
+2025.05.18 10:52:14 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:15 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom.sha1[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom.sha1[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.pom[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.pom[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.pom[0m
+2025.05.18 10:52:17 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom[0m
+2025.05.18 10:52:17 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:17 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom[0m
+2025.05.18 10:52:17 INFO  BSP server: Downloading https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:17 INFO  BSP server: Downloaded https://oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:17 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom[0m
+2025.05.18 10:52:17 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:17 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:16 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:17 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:17 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom[0m
+2025.05.18 10:52:17 INFO  BSP server: Downloading https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:17 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://s01.oss.sonatype.org/content/repositories/snapshots/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom.sha1[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.pom[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/io_2.12/4.13.4/io_2.12-4.13.4.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-compile-core_2.12/1.10.8/zinc-compile-core_2.12-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.10.8/compiler-interface-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/github/mwiede/jsch/0.2.23/jsch-0.2.23.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.jar[0m
+2025.05.18 10:52:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/util-cache_2.12/1.10.7/util-cache_2.12-1.10.7.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.jar[0m
+2025.05.18 10:52:19 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/scala-debug-adapter_2.12/4.2.5/scala-debug-adapter_2.12-4.2.5.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.5.18/logback-classic-1.5.18.jar[0m
+2025.05.18 10:52:18 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/util/directories/0.1.2/directories-0.1.2.jar[0m
+2025.05.18 10:52:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classfile_2.12/1.10.8/zinc-classfile_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist_2.12/1.10.8/zinc-persist_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.10.4/io_2.12-1.10.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.jar[0m
+2025.05.18 10:52:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/util/directories/0.1.2/directories-0.1.2.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-persist-core-assembly/1.10.8/zinc-persist-core-assembly-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.jar[0m
+2025.05.18 10:52:19 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc_2.12/1.10.8/zinc_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.12/1.10.8/compiler-bridge_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.12/4.13.4/common_2.12-4.13.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.13.0/scala-collection-compat_2.12-2.13.0.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-core_2.12/1.10.8/zinc-core_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-classpath_2.12/1.10.8/zinc-classpath_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/util/directories-jni/0.1.2/directories-jni-0.1.2.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-ivy_2.12/1.10.4/librarymanagement-ivy_2.12-1.10.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-shared_2.12/2.0.10/bloop-shared_2.12-2.0.10.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/librarymanagement-core_2.12/1.10.4/librarymanagement-core_2.12-1.10.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-frontend_2.12/2.0.10/bloop-frontend_2.12-2.0.10.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-config_2.12/2.3.2/bloop-config_2.12-2.3.2.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.12/4.13.4/trees_2.12-4.13.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/epfl/scala/bloop-backend_2.12/2.0.10/bloop-backend_2.12-2.0.10.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/zinc-apiinfo_2.12/1.10.8/zinc-apiinfo_2.12-1.10.8.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41/ivy-2.3.0-sbt-77cc781d727b367d3761f097d89f5a4762771d41.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.12/4.13.4/parsers_2.12-4.13.4.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.5.18/logback-core-1.5.18.jar[0m
+2025.05.18 10:52:19 INFO  BSP server: Starting compilation server[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.0/scala3-sbt-bridge-3.7.0.pom[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.0/scala3-sbt-bridge-3.7.0.pom[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.0/scala3-sbt-bridge-3.7.0.jar[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.7.0/scala3-sbt-bridge-3.7.0.jar[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.7.0/scala3-library_3-3.7.0-sources.jar[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.7.0/scala3-library_3-3.7.0-sources.jar[0m
+2025.05.18 10:52:21 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar[0m
+2025.05.18 10:52:21 INFO  no build target found for /Users/vhugo/repos/scala/oop/traits.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.05.18 10:52:21 INFO  time: Connected to build server in 16s[0m
+2025.05.18 10:52:21 INFO  Connected to Build server: scala-cli v1.8.0[0m
+2025.05.18 10:52:22 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:52:22 INFO  time: compiled oop_63c243c5a1 in 0.77s[0m
+2025.05.18 10:52:23 INFO  time: indexed workspace in 1.71s[0m
+2025.05.18 10:52:25 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:52:25 INFO  time: compiled oop_63c243c5a1 in 0.4s[0m
+May 18, 2025 10:52:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 465
+2025.05.18 10:52:47 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:52:47 INFO  time: compiled oop_63c243c5a1 in 0.21s[0m
+2025.05.18 10:53:46 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:53:46 INFO  time: compiled oop_63c243c5a1 in 0.15s[0m
+May 18, 2025 10:54:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1067
+2025.05.18 10:54:53 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:54:53 INFO  time: compiled oop_63c243c5a1 in 0.13s[0m
+2025.05.18 10:55:59 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:55:59 INFO  time: compiled oop_63c243c5a1 in 80ms[0m
+2025.05.18 10:56:01 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:56:01 INFO  time: compiled oop_63c243c5a1 in 0.11s[0m
+2025.05.18 10:56:13 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:56:13 INFO  time: compiled oop_63c243c5a1 in 0.13s[0m
+2025.05.18 10:56:18 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:56:18 INFO  time: compiled oop_63c243c5a1 in 0.11s[0m
+2025.05.18 10:56:20 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:56:20 INFO  time: compiled oop_63c243c5a1 in 0.11s[0m
+May 18, 2025 10:56:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1842
+2025.05.18 10:56:54 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:56:54 INFO  time: compiled oop_63c243c5a1 in 0.14s[0m
+2025.05.18 10:56:59 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:56:59 INFO  time: compiled oop_63c243c5a1 in 43ms[0m
+2025.05.18 10:57:05 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:57:05 INFO  time: compiled oop_63c243c5a1 in 0.1s[0m
+May 18, 2025 10:57:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2122
+2025.05.18 10:57:29 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:57:29 INFO  time: compiled oop_63c243c5a1 in 96ms[0m
+2025.05.18 10:57:49 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:57:49 INFO  time: compiled oop_63c243c5a1 in 95ms[0m
+May 18, 2025 10:58:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2473
+2025.05.18 10:58:33 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:58:33 INFO  time: compiled oop_63c243c5a1 in 46ms[0m
+2025.05.18 10:58:45 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:58:45 INFO  time: compiled oop_63c243c5a1 in 47ms[0m
+2025.05.18 10:59:00 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:59:00 INFO  time: compiled oop_63c243c5a1 in 0.18s[0m
+2025.05.18 10:59:13 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:59:13 INFO  time: compiled oop_63c243c5a1 in 0.12s[0m
+2025.05.18 10:59:19 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:59:19 INFO  time: compiled oop_63c243c5a1 in 0.11s[0m
+2025.05.18 10:59:29 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 10:59:29 INFO  time: compiled oop_63c243c5a1 in 0.11s[0m
+2025.05.18 11:01:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/classes.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.05.18 11:01:18 WARN  no build target for: /Users/vhugo/repos/scala/oop/classes.scala[0m
+2025.05.18 11:01:18 INFO  no build target found for /Users/vhugo/repos/scala/oop/classes.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.05.18 11:01:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/oop/classes.scala[0m
+2025.05.18 11:01:18 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:01:18 INFO  time: compiled oop_63c243c5a1 in 32ms[0m
+2025.05.18 11:01:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/oop/classes.scala[0m
+2025.05.18 11:01:19 INFO  time: indexed workspace in 0.86s[0m
+2025.05.18 11:01:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/oop/classes.scala[0m
+2025.05.18 11:01:20 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/oop/classes.scala[0m
+2025.05.18 11:01:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/oop/classes.scala[0m
+2025.05.18 11:01:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/oop/classes.scala[0m
+2025.05.18 11:01:57 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:01:57 INFO  time: compiled oop_63c243c5a1 in 0.1s[0m
+2025.05.18 11:02:36 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:02:36 INFO  time: compiled oop_63c243c5a1 in 0.1s[0m
+2025.05.18 11:02:47 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:02:47 INFO  time: compiled oop_63c243c5a1 in 97ms[0m
+2025.05.18 11:03:05 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:03:05 INFO  time: compiled oop_63c243c5a1 in 0.1s[0m
+2025.05.18 11:03:13 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:03:13 INFO  time: compiled oop_63c243c5a1 in 98ms[0m
+2025.05.18 11:03:24 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
+2025.05.18 11:03:24 INFO  time: compiled oop_63c243c5a1 in 47ms[0m
+2025.05.18 11:03:27 INFO  time: compiled oop_63c243c5a1 in 2ms[0m
