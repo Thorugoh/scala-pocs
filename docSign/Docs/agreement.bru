@@ -1,0 +1,18 @@
+meta {
+  name: agreement
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:8080/agreement
+  body: json
+  auth: inherit
+}
+
+body:json {
+  {
+    "title": "Some Title",
+    "content": "Some content",
+  }
+}
