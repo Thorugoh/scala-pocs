@@ -1363,3 +1363,200 @@ May 26, 2025 9:19:32 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
 WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-26/r_empty-definition_(foundation_5407af399b)_09-19-32-064.md)
 2025.05.26 09:19:38 INFO  compiling foundation_5407af399b (1 scala source)
 2025.05.26 09:19:38 INFO  time: compiled foundation_5407af399b in 0.11s
+May 26, 2025 3:01:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1649
+May 26, 2025 9:33:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1655
+2025.05.27 07:41:51 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Bunny.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 07:41:51 WARN  no build target for: /Users/vhugo/repos/scala/foundation/Bunny.scala
+2025.05.27 07:41:51 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Bunny.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 07:41:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Bunny.scala
+2025.05.27 07:41:51 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 07:41:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Bunny.scala
+2025.05.27 07:41:51 INFO  time: compiled foundation_5407af399b in 57ms
+2025.05.27 07:41:52 INFO  time: indexed workspace in 0.88s
+2025.05.27 07:41:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Bunny.scala
+2025.05.27 07:43:43 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 07:43:43 INFO  time: compiled foundation_5407af399b in 0.23s
+2025.05.27 07:45:14 INFO  no build target found for /Users/vhugo/repos/scala/foundation/StringsFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 07:45:14 WARN  no build target for: /Users/vhugo/repos/scala/foundation/StringsFunctions.scala
+2025.05.27 07:45:14 INFO  no build target found for /Users/vhugo/repos/scala/foundation/StringsFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 07:45:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/StringsFunctions.scala
+2025.05.27 07:45:14 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 07:45:14 INFO  time: compiled foundation_5407af399b in 51ms
+2025.05.27 07:45:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/StringsFunctions.scala
+2025.05.27 07:45:15 INFO  time: indexed workspace in 0.84s
+2025.05.27 07:45:15 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/StringsFunctions.scala
+2025.05.27 07:47:37 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 07:47:37 INFO  time: compiled foundation_5407af399b in 0.22s
+2025.05.27 07:47:47 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 07:47:47 INFO  time: compiled foundation_5407af399b in 0.15s
+May 27, 2025 7:54:01 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-27/r_empty-definition_(foundation_5407af399b)_07-54-01-010.md)
+2025.05.27 07:56:09 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 07:56:09 INFO  time: compiled foundation_5407af399b in 94ms
+May 27, 2025 7:56:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-27/r_empty-definition_(foundation_5407af399b)_07-54-01-010.md)
+2025.05.27 08:03:03 INFO  no build target found for /Users/vhugo/repos/scala/foundation/UserInput.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:03:04 WARN  no build target for: /Users/vhugo/repos/scala/foundation/UserInput.scala
+2025.05.27 08:03:04 INFO  no build target found for /Users/vhugo/repos/scala/foundation/UserInput.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:03:04 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInput.scala
+2025.05.27 08:03:03 INFO  no build target found for /Users/vhugo/repos/scala/foundation/UserInput.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:03:04 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.05.27 08:03:04 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInput.scala
+2025.05.27 08:03:04 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.05.27 08:03:04 INFO  time: compiled foundation_5407af399b in 82ms
+2025.05.27 08:03:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInput.scala
+2025.05.27 08:03:05 INFO  time: indexed workspace in 1.12s
+2025.05.27 08:03:05 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.05.27 08:03:05 INFO  time: compiled foundation_5407af399b in 73ms
+2025.05.27 08:03:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInput.scala
+2025.05.27 08:03:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInput.scala
+2025.05.27 08:03:38 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.05.27 08:03:38 INFO  time: compiled foundation_5407af399b in 87ms
+2025.05.27 08:03:43 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.05.27 08:03:43 INFO  time: compiled foundation_5407af399b in 92ms
+2025.05.27 08:03:46 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.05.27 08:03:46 INFO  time: compiled foundation_5407af399b in 0.2s
+2025.05.27 08:05:14 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:05:14 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.05.27 08:06:25 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Random.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:06:25 WARN  no build target for: /Users/vhugo/repos/scala/foundation/Random.scala
+2025.05.27 08:06:25 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Random.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:06:25 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Random.scala
+2025.05.27 08:06:25 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:06:25 INFO  time: compiled foundation_5407af399b in 50ms
+2025.05.27 08:06:25 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Random.scala
+2025.05.27 08:06:26 INFO  time: indexed workspace in 0.82s
+May 27, 2025 8:06:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4895
+2025.05.27 08:06:57 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:06:57 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:07:17 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:07:17 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:07:34 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:07:34 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:08:14 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:08:14 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:09:11 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:09:11 INFO  time: compiled foundation_5407af399b in 0.22s
+2025.05.27 08:09:47 INFO  no build target found for /Users/vhugo/repos/scala/foundation/UserInputExercise.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:09:47 WARN  no build target for: /Users/vhugo/repos/scala/foundation/UserInputExercise.scala
+2025.05.27 08:09:47 INFO  no build target found for /Users/vhugo/repos/scala/foundation/UserInputExercise.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:09:47 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInputExercise.scala
+2025.05.27 08:09:48 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:09:48 INFO  time: compiled foundation_5407af399b in 50ms
+2025.05.27 08:09:48 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInputExercise.scala
+2025.05.27 08:09:48 INFO  time: indexed workspace in 0.82s
+2025.05.27 08:09:49 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInputExercise.scala
+2025.05.27 08:09:50 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/UserInputExercise.scala
+May 27, 2025 8:10:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6555
+2025.05.27 08:10:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:10:39 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:10:48 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:10:48 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.27 08:11:25 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:11:25 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:11:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:11:28 INFO  time: compiled foundation_5407af399b in 91ms
+2025.05.27 08:12:27 INFO  no build target found for /Users/vhugo/repos/scala/foundation/CalculateAge.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:12:27 WARN  no build target for: /Users/vhugo/repos/scala/foundation/CalculateAge.scala
+2025.05.27 08:12:27 INFO  no build target found for /Users/vhugo/repos/scala/foundation/CalculateAge.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:12:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/CalculateAge.scala
+2025.05.27 08:12:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:12:27 INFO  time: compiled foundation_5407af399b in 45ms
+2025.05.27 08:12:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/CalculateAge.scala
+2025.05.27 08:12:28 INFO  time: indexed workspace in 0.8s
+2025.05.27 08:12:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/CalculateAge.scala
+2025.05.27 08:12:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/CalculateAge.scala
+2025.05.27 08:12:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/CalculateAge.scala
+May 27, 2025 8:13:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7412
+2025.05.27 08:14:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:14:28 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.27 08:14:28 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:14:37 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:14:37 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.27 08:14:37 INFO  time: compiled foundation_5407af399b in 0.11s
+May 27, 2025 8:14:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8139
+May 27, 2025 8:15:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8294
+2025.05.27 08:15:38 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:15:38 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.27 08:15:38 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:15:48 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:15:48 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.05.27 08:15:48 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:16:17 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:16:17 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.27 08:16:24 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:16:24 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:19:37 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Numbers.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:19:37 WARN  no build target for: /Users/vhugo/repos/scala/foundation/Numbers.scala
+2025.05.27 08:19:37 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Numbers.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:19:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Numbers.scala
+2025.05.27 08:19:37 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:19:37 INFO  time: compiled foundation_5407af399b in 68ms
+2025.05.27 08:19:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Numbers.scala
+2025.05.27 08:19:38 INFO  time: indexed workspace in 0.84s
+2025.05.27 08:19:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Numbers.scala
+2025.05.27 08:19:39 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Numbers.scala
+2025.05.27 08:19:50 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:19:50 INFO  time: compiled foundation_5407af399b in 0.14s
+May 27, 2025 8:20:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8719
+2025.05.27 08:20:12 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:20:12 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.27 08:20:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:20:21 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:20:26 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:20:26 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:23:22 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:23:22 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.27 08:23:45 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:23:45 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:24:09 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:24:09 INFO  time: compiled foundation_5407af399b in 64ms
+May 27, 2025 8:24:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9636
+2025.05.27 08:24:23 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:24:23 INFO  time: compiled foundation_5407af399b in 66ms
+May 27, 2025 8:24:27 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-05-27/r_empty-definition_(foundation_5407af399b)_08-24-27-391.md)
+2025.05.27 08:24:53 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:24:53 INFO  time: compiled foundation_5407af399b in 78ms
+2025.05.27 08:24:55 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:24:55 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.05.27 08:25:04 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:25:04 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:25:24 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:25:24 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:26:17 INFO  no build target found for /Users/vhugo/repos/scala/foundation/NumberConversion.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:26:17 WARN  no build target for: /Users/vhugo/repos/scala/foundation/NumberConversion.scala
+2025.05.27 08:26:17 INFO  no build target found for /Users/vhugo/repos/scala/foundation/NumberConversion.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.05.27 08:26:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/NumberConversion.scala
+2025.05.27 08:26:17 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:26:17 INFO  time: compiled foundation_5407af399b in 62ms
+2025.05.27 08:26:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/NumberConversion.scala
+2025.05.27 08:26:18 INFO  time: indexed workspace in 0.85s
+2025.05.27 08:26:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/NumberConversion.scala
+2025.05.27 08:26:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/NumberConversion.scala
+2025.05.27 08:26:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/NumberConversion.scala
+May 27, 2025 8:26:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10298
+2025.05.27 08:26:46 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:26:46 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:26:57 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:26:57 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.05.27 08:27:34 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:27:34 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.05.27 08:28:09 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:28:09 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:28:24 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:28:24 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.05.27 08:28:30 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:28:30 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.05.27 08:28:43 INFO  compiling foundation_5407af399b (1 scala source)
+2025.05.27 08:28:43 INFO  time: compiled foundation_5407af399b in 0.12s
