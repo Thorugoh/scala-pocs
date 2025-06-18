@@ -1903,3 +1903,9 @@ WARNING: Unmatched cancel notification for request id 4612
 2025.06.18 08:03:02 INFO  time: compiled foundation_5407af399b in 0.1s[0m
 2025.06.18 08:03:06 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.06.18 08:03:06 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.06.18 08:04:25 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 08:04:25 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 08:04:29 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 08:04:29 INFO  time: compiled foundation_5407af399b in 83ms[0m
+2025.06.18 08:04:37 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 08:04:37 INFO  time: compiled foundation_5407af399b in 0.12s[0m

@@ -51,6 +51,6 @@ def operators(): Unit = {
     // Reference expression
     val products = 3
     val price = 9.99
-    val total = s"Your total is ${products * price}"
+    val total = s"Your total is $$${products * price}"
     println(total)
 }
