@@ -32,4 +32,25 @@ def operators(): Unit = {
 
     println(r3)
     println(r3.getClass()) // double
+
+    // Assignment Operator
+    var dozen = 12
+    val months = dozen
+
+    dozen = 13
+   
+    println(dozen) // 13
+    println(months) // 12
+
+    // Reference Operator
+    val username = "victor"
+    val greeting = s"Hello $username"
+    println(greeting)
+
+
+    // Reference expression
+    val products = 3
+    val price = 9.99
+    val total = s"Your total is ${products * price}"
+    println(total)
 }
