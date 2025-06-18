@@ -1560,3 +1560,282 @@ WARNING: Unmatched cancel notification for request id 10298
 2025.05.27 08:28:30 INFO  time: compiled foundation_5407af399b in 0.12s
 2025.05.27 08:28:43 INFO  compiling foundation_5407af399b (1 scala source)
 2025.05.27 08:28:43 INFO  time: compiled foundation_5407af399b in 0.12s
+May 27, 2025 11:46:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11418
+May 27, 2025 11:46:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11419
+May 27, 2025 4:24:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11424
+May 28, 2025 10:25:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11427
+May 28, 2025 10:25:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11428
+May 28, 2025 10:25:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11430
+May 28, 2025 10:25:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11431
+May 28, 2025 11:01:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11433
+May 29, 2025 10:39:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11436
+May 29, 2025 10:39:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11437
+May 30, 2025 9:11:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11442
+May 30, 2025 9:11:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11443
+May 30, 2025 10:27:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11445
+May 30, 2025 10:27:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11446
+May 30, 2025 10:27:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11448
+May 30, 2025 10:27:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11449
+May 30, 2025 11:04:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11451
+May 30, 2025 11:04:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11452
+May 30, 2025 11:04:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11454
+May 30, 2025 3:22:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11457
+May 30, 2025 3:38:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11460
+May 30, 2025 3:38:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11461
+May 31, 2025 6:47:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11464
+May 31, 2025 6:47:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11463
+Jun 01, 2025 7:41:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11466
+Jun 01, 2025 7:41:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11467
+Jun 01, 2025 8:02:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11472
+Jun 02, 2025 7:18:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11475
+Jun 02, 2025 7:18:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11476
+Jun 02, 2025 9:09:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11482
+Jun 02, 2025 9:09:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11484
+Jun 03, 2025 7:34:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11490
+Jun 03, 2025 7:34:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11491
+Jun 03, 2025 8:56:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11496
+Jun 03, 2025 8:56:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11497
+Jun 03, 2025 2:00:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11499
+Jun 03, 2025 2:00:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11500
+Jun 03, 2025 2:00:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11502
+Jun 03, 2025 2:27:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11508
+Jun 03, 2025 2:27:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11509
+Jun 03, 2025 3:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11514
+Jun 03, 2025 3:28:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11515
+Jun 03, 2025 4:01:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11520
+Jun 03, 2025 5:29:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11526
+Jun 03, 2025 7:02:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11532
+Jun 03, 2025 8:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11538
+Jun 03, 2025 9:07:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11544
+Jun 03, 2025 11:06:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11547
+Jun 03, 2025 11:06:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11548
+Jun 04, 2025 2:18:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11550
+Jun 04, 2025 3:20:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11553
+Jun 04, 2025 3:20:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11554
+Jun 04, 2025 3:37:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11556
+Jun 04, 2025 4:30:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11559
+Jun 04, 2025 4:30:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11560
+Jun 04, 2025 4:30:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11562
+Jun 04, 2025 4:30:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11563
+Jun 04, 2025 7:05:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11568
+Jun 04, 2025 7:05:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11569
+Jun 04, 2025 10:07:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11575
+Jun 04, 2025 10:07:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11574
+Jun 04, 2025 1:20:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11586
+Jun 04, 2025 3:30:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11592
+Jun 04, 2025 3:57:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11595
+Jun 04, 2025 3:58:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11598
+Jun 07, 2025 7:12:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11604
+Jun 07, 2025 7:12:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11605
+Jun 07, 2025 8:17:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11607
+Jun 07, 2025 8:17:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11610
+Jun 07, 2025 8:17:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11611
+Jun 07, 2025 8:49:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11613
+Jun 07, 2025 8:49:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11616
+Jun 07, 2025 11:47:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11622
+Jun 07, 2025 12:16:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11625
+Jun 07, 2025 12:16:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11628
+Jun 07, 2025 12:49:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11631
+Jun 07, 2025 12:49:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11634
+Jun 07, 2025 3:53:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11637
+Jun 07, 2025 3:53:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11638
+Jun 07, 2025 3:53:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11640
+Jun 07, 2025 7:23:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11646
+Jun 07, 2025 9:09:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11649
+Jun 07, 2025 9:09:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11650
+Jun 07, 2025 10:26:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11655
+Jun 07, 2025 10:26:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11656
+Jun 07, 2025 10:26:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11658
+Jun 07, 2025 10:58:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11661
+Jun 07, 2025 10:58:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11662
+Jun 07, 2025 10:58:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11664
+Jun 08, 2025 3:22:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11667
+Jun 08, 2025 3:22:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11668
+Jun 08, 2025 3:22:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11670
+Jun 09, 2025 4:16:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11676
+Jun 09, 2025 5:54:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11688
+2025.06.09 18:50:31 INFO  Shutting down server
+2025.06.09 18:50:31 INFO  shutting down Metals
+2025.06.09 18:50:31 INFO  Shut down connection with build server.
+2025.06.09 18:50:31 INFO  Exiting server
+2025.06.18 07:44:24 INFO  Started: Metals version 1.6.0 in folders '/Users/vhugo/repos/scala/foundation' for client Visual Studio Code 1.101.0.[0m
+2025.06.18 07:44:24 INFO  Attempting to connect to the build server...[0m
+2025.06.18 07:44:24 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)[0m
+2025.06.18 07:44:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.18 07:44:27 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.06.18 07:44:27 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.06.18 07:44:27 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.06.18 07:44:27 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.06.18 07:44:27 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.06.18 07:44:27 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.06.18 07:44:27 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.06.18 07:44:27 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.06.18 07:44:27 INFO  time: Connected to build server in 3.12s[0m
+2025.06.18 07:44:27 INFO  Connected to Build server: scala v1.7.1[0m
+2025.06.18 07:44:30 INFO  time: indexed workspace in 2.69s[0m
+Jun 18, 2025 7:45:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.06.18 07:45:28 INFO  no build target found for /Users/vhugo/repos/scala/foundation/opeartors.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 07:45:28 WARN  no build target for: /Users/vhugo/repos/scala/foundation/opeartors.scala[0m
+2025.06.18 07:45:28 INFO  no build target found for /Users/vhugo/repos/scala/foundation/opeartors.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 07:45:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/opeartors.scala[0m
+2025.06.18 07:45:28 INFO  no build target found for /Users/vhugo/repos/scala/foundation/opeartors.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.18 07:45:28 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:45:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/opeartors.scala[0m
+2025.06.18 07:45:29 INFO  time: indexed workspace in 1.01s[0m
+2025.06.18 07:45:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/opeartors.scala[0m
+2025.06.18 07:45:34 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:45:34 INFO  time: compiled foundation_5407af399b in 84ms[0m
+2025.06.18 07:45:35 INFO  time: indexed workspace in 1s[0m
+2025.06.18 07:45:35 WARN  no build target for: /Users/vhugo/repos/scala/foundation/opeartors.scala[0m
+2025.06.18 07:45:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Opeartors.scala[0m
+2025.06.18 07:45:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Opeartors.scala[0m
+2025.06.18 07:45:54 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:45:54 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.06.18 07:45:54 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/Opeartors.scala[0m
+2025.06.18 07:45:58 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/Opeartors.scala[0m
+2025.06.18 07:46:00 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/Opeartors.scala[0m
+2025.06.18 07:46:01 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/Opeartors.scala[0m
+2025.06.18 07:46:02 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:46:02 INFO  time: compiled foundation_5407af399b in 0.3s[0m
+2025.06.18 07:46:20 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:46:20 INFO  time: compiled foundation_5407af399b in 0.16s[0m
+2025.06.18 07:46:30 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:46:30 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.06.18 07:46:41 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:46:41 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.06.18 07:46:58 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:46:58 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:47:01 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:47:01 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:47:26 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:47:26 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:47:32 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:47:32 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:47:43 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:47:43 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.06.18 07:47:47 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:47:47 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:48:03 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:48:03 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:48:21 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:48:21 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+Jun 18, 2025 7:48:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1083
+2025.06.18 07:48:37 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:48:37 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.06.18 07:48:59 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:48:59 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:49:03 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:49:03 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:49:25 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/Opeartors.scala][0m
+2025.06.18 07:49:25 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-06-18/r_empty-definition_(foundation_5f5407af399b)_07-49-25-772.md")[0m
+2025.06.18 07:49:25 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:49:25 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:49:57 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-06-18/r_empty-definition_(foundation_5f5407af399b)_07-49-25-772.md")[0m
+2025.06.18 07:49:58 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:49:58 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:50:00 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:50:00 INFO  time: compiled foundation_5407af399b in 0.1s[0m
+2025.06.18 07:50:14 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:50:14 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.06.18 07:50:24 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:50:24 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.06.18 07:50:43 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:50:43 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.06.18 07:50:49 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:50:49 INFO  time: compiled foundation_5407af399b in 0.11s[0m
