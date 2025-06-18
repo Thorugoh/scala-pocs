@@ -1839,3 +1839,31 @@ WARNING: Unmatched cancel notification for request id 1083
 2025.06.18 07:50:43 INFO  time: compiled foundation_5407af399b in 0.11s[0m
 2025.06.18 07:50:49 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.06.18 07:50:49 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.06.18 07:53:09 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:53:09 INFO  time: compiled foundation_5407af399b in 0.15s[0m
+Jun 18, 2025 7:53:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2057
+2025.06.18 07:53:14 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:53:14 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:53:31 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:53:31 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+Jun 18, 2025 7:54:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2534
+Jun 18, 2025 7:54:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2718
+2025.06.18 07:54:45 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:54:45 INFO  time: compiled foundation_5407af399b in 82ms[0m
+2025.06.18 07:54:53 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-06-18/r_empty-definition_(foundation_5f5407af399b)_07-49-25-772.md")[0m
+2025.06.18 07:54:53 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-06-18/r_empty-definition_(foundation_5f5407af399b)_07-49-25-772.md")[0m
+2025.06.18 07:54:54 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:54:54 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.06.18 07:55:21 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:55:21 INFO  time: compiled foundation_5407af399b in 0.15s[0m
+2025.06.18 07:55:39 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:55:39 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.06.18 07:56:59 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:56:59 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.06.18 07:57:01 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:57:01 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.06.18 07:57:15 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.18 07:57:15 INFO  time: compiled foundation_5407af399b in 0.11s[0m
