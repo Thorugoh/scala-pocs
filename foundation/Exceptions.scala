@@ -4,6 +4,7 @@ import scala.io.StdIn
 def exceptions(): Unit = {
     val input = StdIn.readLine()
     
+    // throw IllegalStateException("I don't like this input")
     try {
         val number = input.toInt
     } catch {
