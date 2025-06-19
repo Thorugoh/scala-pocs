@@ -2026,3 +2026,97 @@ WARNING: Unmatched cancel notification for request id 8731
 2025.06.18 08:27:02 INFO  time: compiled foundation_5407af399b in 0.13s[0m
 2025.06.18 08:27:21 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.06.18 08:27:21 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+Jun 18, 2025 9:26:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10016
+Jun 18, 2025 9:26:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10017
+Jun 18, 2025 11:08:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10019
+Jun 18, 2025 11:08:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10022
+Jun 18, 2025 11:08:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10023
+Jun 18, 2025 2:54:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10025
+Jun 18, 2025 2:54:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10026
+Jun 18, 2025 2:54:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10028
+Jun 18, 2025 5:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10031
+Jun 18, 2025 5:09:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10032
+Jun 18, 2025 5:09:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10034
+Jun 18, 2025 5:44:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10040
+Jun 18, 2025 8:02:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10046
+Jun 18, 2025 10:14:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10052
+Jun 19, 2025 1:36:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10055
+Jun 19, 2025 1:36:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10056
+Jun 19, 2025 1:36:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10058
+Jun 19, 2025 2:41:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10064
+Jun 19, 2025 6:32:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10067
+Jun 19, 2025 6:32:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10070
+2025.06.19 07:50:11 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Exceptions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.19 07:50:11 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Exceptions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.19 07:50:11 WARN  no build target for: /Users/vhugo/repos/scala/foundation/Exceptions.scala[0m
+2025.06.19 07:50:11 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Exceptions.scala[0m
+2025.06.19 07:50:11 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Exceptions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.19 07:50:11 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Exceptions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.19 07:50:11 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Exceptions.scala[0m
+2025.06.19 07:50:12 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.06.19 07:50:12 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.06.19 07:50:12 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.06.19 07:50:12 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.06.19 07:50:12 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.06.19 07:50:12 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.06.19 07:50:12 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Exceptions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.06.19 07:50:12 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.06.19 07:50:12 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.06.19 07:50:12 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:50:12 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Exceptions.scala[0m
+2025.06.19 07:50:12 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.06.19 07:50:13 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Exceptions.scala[0m
+2025.06.19 07:50:14 INFO  time: indexed workspace in 1.19s[0m
+2025.06.19 07:50:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Exceptions.scala[0m
+2025.06.19 07:50:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Exceptions.scala[0m
+2025.06.19 07:50:46 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:50:46 INFO  time: compiled foundation_5407af399b in 0.46s[0m
+2025.06.19 07:50:49 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:50:49 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+Jun 19, 2025 7:51:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10595
+2025.06.19 07:51:09 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:51:09 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+Jun 19, 2025 7:56:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11100
+2025.06.19 07:56:11 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:56:11 INFO  time: compiled foundation_5407af399b in 0.58s[0m
+Jun 19, 2025 7:57:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11199
+2025.06.19 07:57:31 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:57:31 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.06.19 07:57:34 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:57:34 INFO  time: compiled foundation_5407af399b in 0.17s[0m
+2025.06.19 07:57:53 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:57:53 INFO  time: compiled foundation_5407af399b in 0.16s[0m
+2025.06.19 07:58:20 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:58:20 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.06.19 07:58:27 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/Exceptions.scala][0m
+2025.06.19 07:58:27 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-06-19/r_empty-definition_(foundation_5f5407af399b)_07-58-27-231.md")[0m
+2025.06.19 07:58:27 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-06-19/r_empty-definition_(foundation_5f5407af399b)_07-58-27-231.md")[0m
+2025.06.19 07:58:27 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:58:27 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.06.19 07:58:47 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:58:47 INFO  time: compiled foundation_5407af399b in 0.17s[0m
+2025.06.19 07:58:49 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.06.19 07:58:49 INFO  time: compiled foundation_5407af399b in 0.13s[0m
