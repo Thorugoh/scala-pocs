@@ -14,6 +14,8 @@ def exceptions(): Unit = {
         case e: Exception => {
             println("Exeception ocurred")
         }
+    } finally {
+        println("Rsource utilization has completed. Free up all resources")
     }
 
     println("Continuing execution")
