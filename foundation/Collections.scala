@@ -22,4 +22,17 @@ def collections(): Unit = {
 
     // a dictionary is a map
         //mas words to definitions
+    
+    // Tuple
+    // a fixed size group of various data types
+    // Can contain duplicates
+    // Immutable
+    // The type of tuple depends on the number of elements
+
+    val a1 = (1, "Hello", false)
+    val b1 =  Tuple1("one element")
+    val c1 = Tuple2(2, "two elements")
+    val d1 = Tuple3(4, "three", true)
+
+
 }

@@ -2247,3 +2247,23 @@ WARNING: Unmatched cancel notification for request id 1421
 2025.06.23 08:21:16 INFO  time: compiled foundation_5407af399b in 0.15s
 2025.06.23 08:21:33 INFO  compiling foundation_5407af399b (1 scala source)
 2025.06.23 08:21:33 INFO  time: compiled foundation_5407af399b in 0.14s
+Jun 23, 2025 8:22:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2683
+Jun 23, 2025 8:22:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2785
+2025.06.23 08:22:25 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:22:25 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.06.23 08:22:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:22:44 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.06.23 08:23:12 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:23:12 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.06.23 08:23:36 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:23:36 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.06.23 08:23:40 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:23:40 INFO  time: compiled foundation_5407af399b in 78ms
+2025.06.23 08:23:48 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:23:48 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.06.23 08:24:05 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:24:05 INFO  time: compiled foundation_5407af399b in 0.14s
+2025.06.23 08:24:20 INFO  compiling foundation_5407af399b (1 scala source)
+2025.06.23 08:24:20 INFO  time: compiled foundation_5407af399b in 0.17s
