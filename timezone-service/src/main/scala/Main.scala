@@ -13,10 +13,10 @@ object Main {
     implicit val system: akka.actor.ActorSystem = typedSystem.classicSystem
     implicit val ec = system.dispatcher
 
-    val apiKey = ""
+    val apiKey = "BIU4Q9U4HCTJ"
     val service = TimezoneService(apiKey)
     val routes = TimezoneRoutes(service)
-    
+
     val bindingFuture = Http().newServerAt("localhost", 8080).bind(routes.route)
 
     println(s"Server running at http://localhost:8080")

@@ -566,3 +566,7 @@ WARNING: Unmatched cancel notification for request id 2473
 2025.05.18 11:03:24 INFO  compiling oop_63c243c5a1 (1 scala source)[0m
 2025.05.18 11:03:24 INFO  time: compiled oop_63c243c5a1 in 47ms[0m
 2025.05.18 11:03:27 INFO  time: compiled oop_63c243c5a1 in 2ms[0m
+2025.05.18 11:09:28 INFO  Shutting down server[0m
+2025.05.18 11:09:28 INFO  shutting down Metals[0m
+2025.05.18 11:09:28 INFO  Shut down connection with build server.[0m
+2025.05.18 11:09:28 INFO  Exiting server[0m
