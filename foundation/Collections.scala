@@ -12,4 +12,14 @@ def collections(): Unit = {
     // we can iterate through it but ther order is not defined
     Set(1, 2, 3, 632, 9, 52, 6)
     // a deck of card is a set
+
+    //Map
+    // a set of key-value pairs
+    // Keys are unique (set)
+    // Each key maos exactly to one value
+    // values can be duplicates
+    Map("UK" -> "London", "Japan" -> "Tokyo", "Brazil" -> "Brasilia")
+
+    // a dictionary is a map
+        //mas words to definitions
 }
