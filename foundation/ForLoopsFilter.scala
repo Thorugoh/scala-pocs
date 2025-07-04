@@ -15,4 +15,10 @@ def forLoopFilters(): Unit = {
         yield client
     
     println(output)
+
+    for(i <- 1 to 10; j <- 1 to i) {
+        print("\uD83D\uDE00")
+        if (j == i) println()
+    }
+
 }
