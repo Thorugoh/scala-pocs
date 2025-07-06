@@ -2311,3 +2311,81 @@ WARNING: Unmatched cancel notification for request id 880
 2025.07.06 19:31:01 INFO  time: compiled foundation_5407af399b in 0.26s
 2025.07.06 19:31:04 INFO  compiling foundation_5407af399b (1 scala source)
 2025.07.06 19:31:04 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.07.06 19:31:38 INFO  no build target found for /Users/vhugo/repos/scala/foundation/WhileLoppsPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.06 19:31:38 WARN  no build target for: /Users/vhugo/repos/scala/foundation/WhileLoppsPractice.scala
+2025.07.06 19:31:38 INFO  no build target found for /Users/vhugo/repos/scala/foundation/WhileLoppsPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.06 19:31:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/WhileLoppsPractice.scala
+2025.07.06 19:31:38 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:31:38 INFO  time: compiled foundation_5407af399b in 98ms
+2025.07.06 19:31:38 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/WhileLoppsPractice.scala
+2025.07.06 19:31:39 INFO  time: indexed workspace in 1.05s
+2025.07.06 19:32:17 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:32:17 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.07.06 19:32:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:32:27 INFO  time: compiled foundation_5407af399b in 0.16s
+Jul 06, 2025 7:32:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1693
+2025.07.06 19:33:26 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:33:26 INFO  time: compiled foundation_5407af399b in 0.23s
+2025.07.06 19:33:47 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:33:47 INFO  time: compiled foundation_5407af399b in 0.22s
+2025.07.06 19:33:59 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:33:59 INFO  time: compiled foundation_5407af399b in 0.22s
+Jul 06, 2025 7:34:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2381
+2025.07.06 19:35:10 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:35:10 INFO  time: compiled foundation_5407af399b in 0.29s
+2025.07.06 19:35:14 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:35:14 INFO  time: compiled foundation_5407af399b in 0.2s
+2025.07.06 19:35:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:35:21 INFO  time: compiled foundation_5407af399b in 0.23s
+2025.07.06 19:35:29 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:35:29 INFO  time: compiled foundation_5407af399b in 0.19s
+Jul 06, 2025 7:36:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3221
+Jul 06, 2025 7:36:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3377
+Jul 06, 2025 7:36:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3537
+2025.07.06 19:37:13 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:37:13 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.07.06 19:37:18 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/WhileLoppsPractice.scala]
+2025.07.06 19:37:18 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/WhileLoppsPractice.scala]
+2025.07.06 19:37:18 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-06/r_empty-definition_(foundation_5f5407af399b)_19-37-18-650.md")
+2025.07.06 19:37:18 INFO  empty definition using pc, found symbol in pc: scala/io/StdIn. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-06/r_empty-definition_(foundation_5f5407af399b)_19-37-18-646.md")
+2025.07.06 19:37:18 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-06/r_empty-definition_(foundation_5f5407af399b)_19-37-18-650.md")
+2025.07.06 19:37:18 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:37:18 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.07.06 19:37:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:37:21 INFO  time: compiled foundation_5407af399b in 86ms
+2025.07.06 19:37:41 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:37:41 INFO  time: compiled foundation_5407af399b in 0.21s
+2025.07.06 19:38:00 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:38:00 INFO  time: compiled foundation_5407af399b in 0.27s
+2025.07.06 19:38:12 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:38:12 INFO  time: compiled foundation_5407af399b in 0.26s
+2025.07.06 19:38:50 INFO  no build target found for /Users/vhugo/repos/scala/foundation/WhileLoopsNested.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.06 19:38:50 INFO  no build target found for /Users/vhugo/repos/scala/foundation/WhileLoopsNested.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.06 19:38:50 WARN  no build target for: /Users/vhugo/repos/scala/foundation/WhileLoopsNested.scala
+2025.07.06 19:38:50 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/WhileLoopsNested.scala
+2025.07.06 19:38:50 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:38:50 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/WhileLoopsNested.scala
+2025.07.06 19:38:50 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.07.06 19:38:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/WhileLoopsNested.scala
+2025.07.06 19:38:51 INFO  time: indexed workspace in 0.98s
+Jul 06, 2025 7:38:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4324
+Jul 06, 2025 7:39:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4489
+2025.07.06 19:39:33 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:39:33 INFO  time: compiled foundation_5407af399b in 0.23s
+2025.07.06 19:39:41 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:39:41 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.07.06 19:40:02 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:40:02 INFO  time: compiled foundation_5407af399b in 0.18s
+2025.07.06 19:40:24 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/WhileLoopsNested.scala]
+2025.07.06 19:40:24 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-06/r_empty-definition_(foundation_5f5407af399b)_19-40-24-192.md")
+2025.07.06 19:40:24 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:40:24 INFO  time: compiled foundation_5407af399b in 0.17s
+2025.07.06 19:40:27 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.06 19:40:27 INFO  time: compiled foundation_5407af399b in 0.14s
