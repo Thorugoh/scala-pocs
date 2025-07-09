@@ -2908,3 +2908,49 @@ WARNING: Unmatched cancel notification for request id 759
 2025.07.09 09:42:25 INFO  time: compiled foundation_5407af399b in 0.19s[0m
 2025.07.09 09:42:34 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.07.09 09:42:34 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.07.09 09:43:19 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LocalFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:43:19 WARN  no build target for: /Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:43:19 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LocalFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:43:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:43:19 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:43:19 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:43:19 INFO  time: compiled foundation_5407af399b in 0.1s[0m
+2025.07.09 09:43:20 INFO  time: indexed workspace in 1.06s[0m
+2025.07.09 09:43:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:56 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:58 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:58 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:58 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:44:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:00 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:00 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:00 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:02 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:03 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:03 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:04 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:05 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:06 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:06 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:07 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:08 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LocalFunctions.scala[0m
+2025.07.09 09:45:43 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:45:43 INFO  time: compiled foundation_5407af399b in 0.24s[0m
+Jul 09, 2025 9:45:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2325
+2025.07.09 09:46:16 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:46:16 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.07.09 09:46:22 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:46:22 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.07.09 09:46:27 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:46:27 INFO  time: compiled foundation_5407af399b in 0.25s[0m
