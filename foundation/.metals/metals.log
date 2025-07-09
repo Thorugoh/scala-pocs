@@ -2954,3 +2954,31 @@ WARNING: Unmatched cancel notification for request id 2325
 2025.07.09 09:46:22 INFO  time: compiled foundation_5407af399b in 0.22s[0m
 2025.07.09 09:46:27 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.07.09 09:46:27 INFO  time: compiled foundation_5407af399b in 0.25s[0m
+2025.07.09 09:47:51 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionsLocalPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:47:51 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionsLocalPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:47:51 WARN  no build target for: /Users/vhugo/repos/scala/foundation/FunctionsLocalPractice.scala[0m
+2025.07.09 09:47:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionsLocalPractice.scala[0m
+2025.07.09 09:47:51 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionsLocalPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:47:51 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:47:51 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionsLocalPractice.scala[0m
+2025.07.09 09:47:51 INFO  time: compiled foundation_5407af399b in 0.1s[0m
+2025.07.09 09:47:52 INFO  time: indexed workspace in 0.98s[0m
+2025.07.09 09:47:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionsLocalPractice.scala[0m
+2025.07.09 09:48:33 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:48:33 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+Jul 09, 2025 9:48:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3395
+2025.07.09 09:48:57 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:48:57 INFO  time: compiled foundation_5407af399b in 0.1s[0m
+2025.07.09 09:49:23 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:49:23 INFO  time: compiled foundation_5407af399b in 0.21s[0m
+2025.07.09 09:49:23 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:49:23 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+Jul 09, 2025 9:49:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3876
+Jul 09, 2025 9:49:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3944
+2025.07.09 09:49:59 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:49:59 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.07.09 09:50:16 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:50:16 INFO  time: compiled foundation_5407af399b in 0.21s[0m
