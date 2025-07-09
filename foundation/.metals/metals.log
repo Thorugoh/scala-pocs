@@ -2752,3 +2752,139 @@ SEVERE: java.lang.AssertionError: assertion failed (full report at: /Users/vhugo
 2025.07.09 09:31:50 INFO  time: compiled foundation_5407af399b in 0.12s
 2025.07.09 09:32:01 INFO  compiling foundation_5407af399b (1 scala source)
 2025.07.09 09:32:01 INFO  time: compiled foundation_5407af399b in 0.19s
+2025.07.09 09:32:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.09 09:32:59 WARN  no build target for: /Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala
+2025.07.09 09:32:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.09 09:32:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala
+2025.07.09 09:32:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.09 09:32:59 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:32:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala
+2025.07.09 09:32:59 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.07.09 09:33:00 INFO  time: indexed workspace in 1s
+2025.07.09 09:33:00 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:33:00 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.07.09 09:33:00 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:33:00 INFO  time: compiled foundation_5407af399b in 53ms
+2025.07.09 09:33:07 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:33:07 INFO  time: compiled foundation_5407af399b in 93ms
+2025.07.09 09:33:11 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:33:11 INFO  time: compiled foundation_5407af399b in 83ms
+2025.07.09 09:33:20 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:33:20 INFO  time: compiled foundation_5407af399b in 0.1s
+Jul 09, 2025 9:35:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18979
+2025.07.09 09:35:06 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:35:06 INFO  time: compiled foundation_5407af399b in 0.1s
+Jul 09, 2025 9:35:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18993
+2025.07.09 09:35:17 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:35:17 INFO  time: compiled foundation_5407af399b in 0.12s
+2025.07.09 09:35:28 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:35:28 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.07.09 09:35:32 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:35:32 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.07.09 09:35:52 INFO  no build target found for /Users/vhugo/repos/scala/foundation/RepeatedParameters.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.09 09:35:52 WARN  no build target for: /Users/vhugo/repos/scala/foundation/RepeatedParameters.scala
+2025.07.09 09:35:52 INFO  no build target found for /Users/vhugo/repos/scala/foundation/RepeatedParameters.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.09 09:35:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/RepeatedParameters.scala
+2025.07.09 09:35:52 INFO  no build target found for /Users/vhugo/repos/scala/foundation/RepeatedParameters.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.09 09:35:52 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:35:52 INFO  time: compiled foundation_5407af399b in 45ms
+2025.07.09 09:35:52 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:35:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/RepeatedParameters.scala
+2025.07.09 09:35:52 INFO  time: compiled foundation_5407af399b in 0.18s
+2025.07.09 09:35:52 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:35:52 INFO  time: compiled foundation_5407af399b in 16ms
+2025.07.09 09:35:52 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:35:52 INFO  time: compiled foundation_5407af399b in 85ms
+2025.07.09 09:35:53 INFO  time: indexed workspace in 0.93s
+2025.07.09 09:35:53 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:35:53 INFO  time: compiled foundation_5407af399b in 22ms
+2025.07.09 09:35:53 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:35:53 INFO  time: compiled foundation_5407af399b in 94ms
+2025.07.09 09:35:53 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/RepeatedParameters.scala
+2025.07.09 09:35:54 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/RepeatedParameters.scala
+Jul 09, 2025 9:36:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19267
+2025.07.09 09:36:34 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:36:34 INFO  time: compiled foundation_5407af399b in 0.24s
+2025.07.09 09:36:34 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:36:34 INFO  time: compiled foundation_5407af399b in 75ms
+2025.07.09 09:36:47 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:36:47 INFO  time: compiled foundation_5407af399b in 0.19s
+2025.07.09 09:36:47 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:36:47 INFO  time: compiled foundation_5407af399b in 78ms
+2025.07.09 09:37:08 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:37:08 INFO  time: compiled foundation_5407af399b in 0.13s
+2025.07.09 09:37:09 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:37:09 INFO  time: compiled foundation_5407af399b in 0.15s
+2025.07.09 09:37:09 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:37:09 INFO  time: compiled foundation_5407af399b in 70ms
+2025.07.09 09:37:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:37:21 INFO  time: compiled foundation_5407af399b in 0.11s
+2025.07.09 09:37:21 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:37:21 INFO  time: compiled foundation_5407af399b in 68ms
+2025.07.09 09:37:23 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:37:23 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.07.09 09:37:23 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:37:23 INFO  time: compiled foundation_5407af399b in 63ms
+2025.07.09 09:37:23 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:37:24 INFO  time: compiled foundation_5407af399b in 0.1s
+2025.07.09 09:37:24 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:37:24 INFO  time: compiled foundation_5407af399b in 67ms
+2025.07.09 09:37:39 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/Random.scala]
+2025.07.09 09:37:39 INFO  empty definition using pc, found symbol in pc: scala/util/Random#nextPrintableChar(). (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-09/r_empty-definition_(foundation_5f5407af399b)_09-37-39-426.md")
+2025.07.09 09:37:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.09 09:37:39 INFO  time: compiled foundation_5407af399b in 0.16s
+2025.07.09 09:37:39 INFO  compiling foundation_5407af399b (2 scala sources)
+2025.07.09 09:37:39 INFO  time: compiled foundation_5407af399b in 93ms
+2025.07.09 09:37:46 INFO  Shutting down server
+2025.07.09 09:37:46 INFO  shutting down Metals
+2025.07.09 09:37:46 INFO  Shut down connection with build server.
+2025.07.09 09:37:46 INFO  Exiting server
+2025.07.09 09:38:05 INFO  Started: Metals version 1.6.0 in folders '/Users/vhugo/repos/scala/foundation' for client Visual Studio Code 1.101.2.[0m
+2025.07.09 09:38:05 INFO  no build target found for /Users/vhugo/repos/scala/foundation/RepeatedParameters.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.09 09:38:06 INFO  Attempting to connect to the build server...[0m
+2025.07.09 09:38:06 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)[0m
+2025.07.09 09:38:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.07.09 09:38:08 INFO  no build target found for /Users/vhugo/repos/scala/foundation/RepeatedParameters.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.09 09:38:08 INFO  time: Connected to build server in 1.91s[0m
+2025.07.09 09:38:08 INFO  Connected to Build server: scala v1.7.1[0m
+2025.07.09 09:38:08 INFO  compiling foundation_5407af399b (1 scala source)[0m
+Jul 09, 2025 9:38:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Jul 09, 2025 9:38:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2025.07.09 09:38:08 INFO  time: compiled foundation_5407af399b in 0.38s[0m
+2025.07.09 09:38:08 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.07.09 09:38:08 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.07.09 09:38:08 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:38:08 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.07.09 09:38:08 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.07.09 09:38:08 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.07.09 09:38:09 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:38:09 INFO  time: compiled foundation_5407af399b in 0.24s[0m
+2025.07.09 09:38:09 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.07.09 09:38:09 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.07.09 09:38:10 INFO  time: indexed workspace in 2.74s[0m
+2025.07.09 09:38:11 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:38:11 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.07.09 09:38:11 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.07.09 09:38:11 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.07.09 09:38:14 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:38:14 INFO  time: compiled foundation_5407af399b in 0.15s[0m
+2025.07.09 09:38:14 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.07.09 09:38:14 INFO  time: compiled foundation_5407af399b in 72ms[0m
+2025.07.09 09:38:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala[0m
+2025.07.09 09:38:16 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.07.09 09:38:16 INFO  time: compiled foundation_5407af399b in 0.3s[0m
+2025.07.09 09:38:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala[0m
+2025.07.09 09:38:27 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:38:27 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.07.09 09:38:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionScopePractice.scala[0m
+2025.07.09 09:39:36 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:39:36 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.07.09 09:39:55 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:39:55 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.07.09 09:40:03 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:40:03 INFO  time: compiled foundation_5407af399b in 0.24s[0m
