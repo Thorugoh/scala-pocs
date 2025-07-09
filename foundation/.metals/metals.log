@@ -2888,3 +2888,23 @@ WARNING: Unmatched cancel notification for request id 10
 2025.07.09 09:39:55 INFO  time: compiled foundation_5407af399b in 0.22s[0m
 2025.07.09 09:40:03 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.07.09 09:40:03 INFO  time: compiled foundation_5407af399b in 0.24s[0m
+2025.07.09 09:40:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/project.scala[0m
+2025.07.09 09:40:52 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/project.scala[0m
+2025.07.09 09:41:06 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionsRepeatedParametersPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:41:06 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionsRepeatedParametersPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:41:06 WARN  no build target for: /Users/vhugo/repos/scala/foundation/FunctionsRepeatedParametersPractice.scala[0m
+2025.07.09 09:41:06 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionsRepeatedParametersPractice.scala[0m
+2025.07.09 09:41:06 INFO  no build target found for /Users/vhugo/repos/scala/foundation/FunctionsRepeatedParametersPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.09 09:41:06 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:41:06 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.07.09 09:41:07 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionsRepeatedParametersPractice.scala[0m
+2025.07.09 09:41:08 INFO  time: indexed workspace in 1.12s[0m
+2025.07.09 09:41:08 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/FunctionsRepeatedParametersPractice.scala[0m
+Jul 09, 2025 9:41:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 759
+2025.07.09 09:42:03 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:42:03 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.07.09 09:42:25 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:42:25 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.07.09 09:42:34 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.09 09:42:34 INFO  time: compiled foundation_5407af399b in 0.22s[0m
