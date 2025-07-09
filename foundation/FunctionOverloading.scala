@@ -14,6 +14,6 @@ def functionOverloading(): Unit = {
  def multiply(number: Int, multiplier: Int) = number * multiplier
 
  def sayHello(person: String) = println(s"Hi $person")
- def sayHello(people: List[String]): Unit =
+ def sayHello(people: Iterable[String]): Unit =
     for(person <- people)
         println(person)
