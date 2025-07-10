@@ -2982,3 +2982,113 @@ WARNING: Unmatched cancel notification for request id 3944
 2025.07.09 09:49:59 INFO  time: compiled foundation_5407af399b in 0.22s[0m
 2025.07.09 09:50:16 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.07.09 09:50:16 INFO  time: compiled foundation_5407af399b in 0.21s[0m
+Jul 09, 2025 1:58:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4136
+Jul 09, 2025 5:39:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4142
+Jul 09, 2025 6:41:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4148
+Jul 09, 2025 7:44:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4154
+Jul 09, 2025 11:03:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4160
+Jul 10, 2025 12:23:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4166
+Jul 10, 2025 12:58:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4172
+Jul 10, 2025 4:25:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4175
+Jul 10, 2025 4:25:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4178
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:15 WARN  no build target for: /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:15 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:15 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.07.10 07:10:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.07.10 07:10:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.07.10 07:10:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.07.10 07:10:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.07.10 07:10:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.07.10 07:10:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:10:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:10:16 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:16 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.07.10 07:10:16 INFO  time: Imported build in 0.34s[0m
+2025.07.10 07:10:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:17 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:17 INFO  time: indexed workspace in 0.94s[0m
+2025.07.10 07:10:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:18 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:21 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:22 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:23 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:24 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:24 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:25 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:26 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:26 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:26 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:27 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:29 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:30 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:31 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:33 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:34 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+2025.07.10 07:10:37 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdaFunctions.scala[0m
+Jul 10, 2025 7:10:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4529
+2025.07.10 07:11:01 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:11:01 INFO  time: compiled foundation_5407af399b in 0.16s[0m
+Jul 10, 2025 7:11:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4758
+2025.07.10 07:11:04 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:11:04 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.07.10 07:11:22 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:11:22 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.07.10 07:11:25 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:11:25 INFO  time: compiled foundation_5407af399b in 72ms[0m
+2025.07.10 07:11:51 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:11:51 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.07.10 07:11:54 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:11:54 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.07.10 07:12:05 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:12:05 INFO  time: compiled foundation_5407af399b in 0.28s[0m
+2025.07.10 07:12:23 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:12:23 INFO  time: compiled foundation_5407af399b in 0.18s[0m
