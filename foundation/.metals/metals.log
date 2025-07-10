@@ -3092,3 +3092,87 @@ WARNING: Unmatched cancel notification for request id 4758
 2025.07.10 07:12:05 INFO  time: compiled foundation_5407af399b in 0.28s[0m
 2025.07.10 07:12:23 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.07.10 07:12:23 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.07.10 07:12:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:12:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:12:59 WARN  no build target for: /Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala[0m
+2025.07.10 07:12:59 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala[0m
+2025.07.10 07:12:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:12:59 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:12:59 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.07.10 07:13:00 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala[0m
+2025.07.10 07:13:01 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala[0m
+2025.07.10 07:13:01 INFO  time: indexed workspace in 1.47s[0m
+Jul 10, 2025 7:13:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5784
+2025.07.10 07:14:05 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:14:05 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.07.10 07:14:26 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:14:26 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+Jul 10, 2025 7:14:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6518
+2025.07.10 07:15:16 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:15:16 INFO  time: compiled foundation_5407af399b in 0.21s[0m
+Jul 10, 2025 7:15:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6851
+2025.07.10 07:15:24 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:15:24 INFO  time: compiled foundation_5407af399b in 0.26s[0m
+2025.07.10 07:16:06 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:16:06 INFO  time: compiled foundation_5407af399b in 0.21s[0m
+2025.07.10 07:16:15 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:16:15 INFO  time: compiled foundation_5407af399b in 0.17s[0m
+2025.07.10 07:16:23 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:16:23 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.07.10 07:16:26 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/HigherOrderFunction.scala][0m
+2025.07.10 07:16:26 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-10/r_empty-definition_(foundation_5f5407af399b)_07-16-26-758.md")[0m
+2025.07.10 07:16:26 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-10/r_empty-definition_(foundation_5f5407af399b)_07-16-26-758.md")[0m
+2025.07.10 07:16:28 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-10/r_empty-definition_(foundation_5f5407af399b)_07-16-26-758.md")[0m
+2025.07.10 07:16:28 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:16:28 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.07.10 07:16:31 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:16:31 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.07.10 07:17:35 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdasPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:17:35 WARN  no build target for: /Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+2025.07.10 07:17:35 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdasPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:17:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+2025.07.10 07:17:35 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdasPractice.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.10 07:17:35 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:17:35 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+2025.07.10 07:17:35 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.07.10 07:17:36 INFO  time: indexed workspace in 0.99s[0m
+Jul 10, 2025 7:17:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7112
+2025.07.10 07:17:36 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+Jul 10, 2025 7:18:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7551
+2025.07.10 07:18:42 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:18:42 INFO  time: compiled foundation_5407af399b in 0.15s[0m
+2025.07.10 07:18:47 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:18:47 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.07.10 07:18:53 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/LambdasPractice.scala][0m
+2025.07.10 07:18:53 INFO  empty definition using pc, found symbol in pc: scala/Array# (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-10/r_empty-definition_(foundation_5f5407af399b)_07-18-53-495.md")[0m
+2025.07.10 07:18:53 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:18:53 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+Jul 10, 2025 7:19:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8216
+2025.07.10 07:19:16 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:19:16 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.07.10 07:19:16 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+2025.07.10 07:19:19 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+2025.07.10 07:19:21 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+2025.07.10 07:19:21 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:19:21 INFO  time: compiled foundation_5407af399b in 0.26s[0m
+Jul 10, 2025 7:19:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8379
+2025.07.10 07:19:45 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:19:45 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.07.10 07:19:48 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:19:48 INFO  time: compiled foundation_5407af399b in 97ms[0m
+2025.07.10 07:19:48 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:19:48 INFO  time: compiled foundation_5407af399b in 0.17s[0m
+2025.07.10 07:19:57 WARN  Could not load snapshot text for /Users/vhugo/repos/scala/foundation/LambdasPractice.scala[0m
+2025.07.10 07:19:57 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:19:57 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.07.10 07:20:09 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:20:09 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.07.10 07:20:15 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.10 07:20:15 INFO  time: compiled foundation_5407af399b in 0.2s[0m
