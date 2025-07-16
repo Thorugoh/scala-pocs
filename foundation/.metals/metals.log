@@ -3355,3 +3355,51 @@ WARNING: Unmatched cancel notification for request id 15378
 2025.07.10 07:41:47 INFO  time: compiled foundation_5407af399b in 0.25s[0m
 2025.07.10 07:42:18 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.07.10 07:42:18 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.07.10 07:44:15 INFO  Shutting down server[0m
+2025.07.10 07:44:15 INFO  shutting down Metals[0m
+2025.07.10 07:44:15 INFO  Shut down connection with build server.[0m
+2025.07.10 07:44:15 INFO  Exiting server[0m
+2025.07.16 08:53:39 INFO  Started: Metals version 1.6.0 in folders '/Users/vhugo/repos/scala/foundation' for client Visual Studio Code 1.101.2.
+2025.07.16 08:53:40 INFO  Attempting to connect to the build server...
+2025.07.16 08:53:40 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)
+2025.07.16 08:53:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.07.16 08:53:43 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/
+2025.07.16 08:53:43 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/
+2025.07.16 08:53:43 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml
+2025.07.16 08:53:43 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml
+2025.07.16 08:53:43 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/
+2025.07.16 08:53:43 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/
+2025.07.16 08:53:43 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml
+2025.07.16 08:53:43 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml
+2025.07.16 08:53:44 INFO  time: Connected to build server in 4.06s
+2025.07.16 08:53:44 INFO  Connected to Build server: scala v1.7.1
+2025.07.16 08:53:44 INFO  time: Imported build in 0.1s
+2025.07.16 08:53:47 INFO  time: indexed workspace in 3.15s
+2025.07.16 08:53:57 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Packages.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.16 08:53:57 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Packages.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.16 08:53:57 WARN  no build target for: /Users/vhugo/repos/scala/foundation/Packages.scala
+2025.07.16 08:53:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Packages.scala
+2025.07.16 08:53:57 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Packages.scala. Using presentation compiler with project's scala-library version: 3.7.0
+2025.07.16 08:53:57 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 08:53:57 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Packages.scala
+2025.07.16 08:53:57 INFO  time: compiled foundation_5407af399b in 0.51s
+2025.07.16 08:53:59 INFO  time: indexed workspace in 1.48s
+Jul 16, 2025 8:53:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2025.07.16 08:54:21 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 08:54:21 INFO  time: compiled foundation_5407af399b in 0.65s
+2025.07.16 08:54:38 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/Packages.scala]
+2025.07.16 08:54:38 INFO  empty definition using pc, found symbol in pc: `<none>`. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-16/r_empty-definition_(foundation_5f5407af399b)_08-54-38-009.md")
+2025.07.16 08:54:38 INFO  Created report: Optional[file:///Users/vhugo/repos/scala/foundation/Packages.scala]
+2025.07.16 08:54:38 INFO  empty definition using pc, found symbol in pc: scala/package.List. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-16/r_empty-definition_(foundation_5f5407af399b)_08-54-38-913.md")
+2025.07.16 08:54:38 INFO  empty definition using pc, found symbol in pc: scala/package.List. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-16/r_empty-definition_(foundation_5f5407af399b)_08-54-38-913.md")
+2025.07.16 08:54:39 INFO  empty definition using pc, found symbol in pc: scala/package.List. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-16/r_empty-definition_(foundation_5f5407af399b)_08-54-38-913.md")
+2025.07.16 08:54:39 INFO  empty definition using pc, found symbol in pc: scala/package.List. (full report at: "/Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-16/r_empty-definition_(foundation_5f5407af399b)_08-54-38-913.md")
+Jul 16, 2025 9:01:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 452
+Jul 16, 2025 9:01:41 AM scala.meta.internal.metals.StdReporter create$$anonfun$1
+SEVERE: java.lang.IndexOutOfBoundsException: 1 (full report at: /Users/vhugo/repos/scala/foundation/.metals/.reports/metals-full/2025-07-16/r_compiler-error_(foundation_5407af399b)_09-01-41-662.md)
+2025.07.16 09:01:51 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:01:51 INFO  time: compiled foundation_5407af399b in 0.34s
+2025.07.16 09:01:55 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:01:55 INFO  time: compiled foundation_5407af399b in 0.25s
