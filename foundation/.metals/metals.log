@@ -3403,3 +3403,34 @@ SEVERE: java.lang.IndexOutOfBoundsException: 1 (full report at: /Users/vhugo/rep
 2025.07.16 09:01:51 INFO  time: compiled foundation_5407af399b in 0.34s
 2025.07.16 09:01:55 INFO  compiling foundation_5407af399b (1 scala source)
 2025.07.16 09:01:55 INFO  time: compiled foundation_5407af399b in 0.25s
+Jul 16, 2025 9:02:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 689
+Jul 16, 2025 9:03:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1096
+Jul 16, 2025 9:03:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1437
+2025.07.16 09:03:39 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:03:39 INFO  time: compiled foundation_5407af399b in 0.21s
+2025.07.16 09:03:44 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:03:44 INFO  time: compiled foundation_5407af399b in 0.24s
+2025.07.16 09:04:26 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:04:26 INFO  time: compiled foundation_5407af399b in 0.22s
+2025.07.16 09:04:32 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:04:32 INFO  time: compiled foundation_5407af399b in 0.23s
+2025.07.16 09:04:43 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:04:43 INFO  time: compiled foundation_5407af399b in 0.21s
+Jul 16, 2025 9:05:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1984
+2025.07.16 09:05:06 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:05:06 INFO  time: compiled foundation_5407af399b in 0.3s
+Exception in thread "pool-8-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:208)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2025.07.16 09:05:30 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:05:30 INFO  time: compiled foundation_5407af399b in 0.18s
+2025.07.16 09:05:34 INFO  compiling foundation_5407af399b (1 scala source)
+2025.07.16 09:05:34 INFO  time: compiled foundation_5407af399b in 0.23s
