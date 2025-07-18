@@ -45,6 +45,13 @@ def setupGame() =
         if (mistakes == 6)
           gameOver = true
 
+  if(mistakes == 6)
+    printGameStatus()
+    println(s"Sorry, you have lost. The word was $word")
+  else
+    println("Congratulations, you win!")
+    println(s"The word was $word")
+
 
 def printGameStatus() =
   mistakes match
