@@ -15,6 +15,10 @@ def setupGame() =
   val wordIndex = Random.nextInt(words.size)
   var word = words(wordIndex).toUpperCase
   println(word)
+
+  for ( i <- word.indices)
+    guesses.addOne('_')
+
   mistakes = 0
   printGameStatus()
 
@@ -27,6 +31,13 @@ def printGameStatus() =
     case 4 => print4Mistakes()
     case 5 => print5Mistakes()
     case 6 => print6Mistakes()
+
+  print("Word: ")
+  for(element <- guesses)
+    print(s"$element ")
+
+  println(s"\nYou have $remainingGuesses guess(es) left")
+
 
 def print0Mistakes() =
   println("  |------|-")
