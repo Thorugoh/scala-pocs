@@ -1,4 +1,5 @@
 import scala.collection.mutable.ArrayBuffer
+import scala.io.StdIn
 import scala.util.Random
 
 val words = List("elbow", "writer", "circle", "polish", "bridge", "store", "fang", "scarecrow", "show", "jeans", "wilderness", "attempt", "waxing", "aftermath", "banana", "wrist", "wheel", "spring", "cherries", "nerve")
@@ -19,8 +20,31 @@ def setupGame() =
   for ( i <- word.indices)
     guesses.addOne('_')
 
-  mistakes = 0
-  printGameStatus()
+  var gameOver = false
+
+  while (!gameOver)
+    printGameStatus()
+    println("Please enter a letter:")
+    val input = StdIn.readLine()
+
+    if(input.isEmpty)
+      println("Invalid input. PLease try again")
+    else
+      val letter = input.charAt(0).toUpper
+      if(word.contains(letter))
+        for(i <- word.indices)
+          if (word.charAt(i) == letter)
+            guesses(i) = letter
+        if (!guesses.contains(('_')))
+          gameOver = true
+
+      else
+        println("Sorry, that's not part of the word")
+        remainingGuesses -= 1
+        mistakes += 1
+        if (mistakes == 6)
+          gameOver = true
+
 
 def printGameStatus() =
   mistakes match
