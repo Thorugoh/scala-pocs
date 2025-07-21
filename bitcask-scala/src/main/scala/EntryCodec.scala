@@ -4,16 +4,15 @@ object EntryCodec:
   import BytePacking.*
   import ByteDecoder.*
 
-  def encodeEntry(key: String, value: Array[Byte], timestamp: Int, crc: Int = 0): Array[Byte] =
-    val keyBytes: Array[Byte] = key.toBytes
+  def encodeEntry(key: Array[Byte], value: Array[Byte], timestamp: Int, crc: Int = 0): Array[Byte] =
     val header = EntryHeader(
       crc = crc,
       timestamp = timestamp,
-      keySize = keyBytes.length.toShort,
+      keySize = key.length.toShort,
       valueSize = value.length
     )
     val encodedHeader = EntryHeader.encode(header)
-    pack(encodedHeader, keyBytes, value)
+    pack(encodedHeader, key, value)
 
   def decodeEntry(bytes: Array[Byte]): Entry =
     val header = EntryHeader.decode(bytes.slice(0, 14))
