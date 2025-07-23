@@ -1,5 +1,6 @@
 import scala.collection.mutable.ArrayBuffer
 import scala.io.StdIn
+import scala.util.Random
 
 var board = ArrayBuffer[ArrayBuffer[String]]()
 
@@ -20,6 +21,9 @@ def ticTacToe() =
     val input = StdIn.readLine()
     var x = 0
     var y = 0
+
+    var skipRound = false
+
     try
         val position = input.split(",")
         x = position(0).trim.toInt
@@ -27,10 +31,14 @@ def ticTacToe() =
 
         if(board(x-1)(y-1) != "")
           println("Position already taken, try again")
+          skipRound = true
         else
           board(x-1)(y-1) = "X"
           printBoard()
 
+        if(!skipRound)
+          placeComputerMove()
+          printBoard()
     catch
       case e: Exception => println("Invalid input, try again.")
 
@@ -45,4 +53,12 @@ def printBoard() =
     println("|")
   println("-------------")
 
+def randPos() = Random.nextInt(3)
+def placeComputerMove() =
+  var i = randPos()
+  var j = randPos()
 
+  while(board(i)(j) != "")
+    i = randPos()
+    j = randPos()
+  board(i)(j) = "O"
