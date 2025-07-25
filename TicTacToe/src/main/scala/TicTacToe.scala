@@ -37,8 +37,19 @@ def ticTacToe() =
           printBoard()
 
         if(!skipRound)
-          placeComputerMove()
-          printBoard()
+          val playerWon = checkWinner(true)
+          if(playerWon)
+            println("\ud83c\udf7e \ud83c\udf7e \ud83c\udf7e \ud83c\udf7e \ud83c\udf7e")
+            println("You won! congratulations")
+            continueGame = false
+
+          if(continueGame)
+            placeComputerMove()
+            printBoard()
+            val computerWon = checkWinner(false)
+            if(computerWon)
+              println("Computer won!")
+              continueGame = false
     catch
       case e: Exception => println("Invalid input, try again.")
 
@@ -62,3 +73,30 @@ def placeComputerMove() =
     i = randPos()
     j = randPos()
   board(i)(j) = "O"
+
+
+def checkWinner(player: Boolean): Boolean =
+  var won = false
+  val checkSymbol = if(player) "X" else "O"
+
+  for (i <- 0 to 2)
+    // Horizontal wins
+    if(board(i)(0) == checkSymbol && board(i)(1) == checkSymbol && board(i)(2) == checkSymbol)
+      won = true
+
+    // Vertical wins
+    if(board(0)(i) == checkSymbol && board(1)(i) == checkSymbol && board(2)(i) == checkSymbol)
+      won = true
+
+    // Diagonal wins
+    if(board(0)(0) == checkSymbol && board(1)(1) == checkSymbol && board(2)(2) == checkSymbol)
+      won = true
+
+    // Diagonal right wins
+    if(board(2)(0) == checkSymbol && board(1)(1) == checkSymbol && board(0)(2) == checkSymbol)
+      won = true
+
+  won
+
+
+
