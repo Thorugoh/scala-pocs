@@ -43,6 +43,11 @@ def ticTacToe() =
             println("You won! congratulations")
             continueGame = false
 
+          val boardFull = checkBoardFull()
+          if (boardFull && !playerWon)
+            println("It's a tie")
+            continueGame = false
+
           if(continueGame)
             placeComputerMove()
             printBoard()
@@ -98,5 +103,12 @@ def checkWinner(player: Boolean): Boolean =
 
   won
 
+def checkBoardFull(): Boolean =
+  var boardFull = true
+  for( i<- 0 to 2)
+    for (j<- 0 to 2)
+      if(board(j)(j) == "")
+        boardFull = false
+  boardFull
 
 
