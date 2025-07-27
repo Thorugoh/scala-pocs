@@ -13,9 +13,11 @@ object BitcaskWriter:
 class BitcaskWriter(val bos: BufferedOutputStream):
   import EntryCodec.*
 
-  def append(key: Array[Byte], value: Array[Byte], timestamp: Int): Unit =
-    val entry = encodeEntry(key, value, timestamp)
+  def append(key: Array[Byte], value: Array[Byte], timestamp: Int): EntryHeader =
+    val (entry, header) = encodeEntry(key, value, timestamp)
     bos.write(entry)
+    header
+    
 
   def flush(): Unit = bos.flush()
   def close(): Unit = bos.close()
