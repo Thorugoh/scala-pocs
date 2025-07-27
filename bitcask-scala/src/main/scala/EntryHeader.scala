@@ -21,7 +21,7 @@ object EntryHeader {
   import BytePacking.*
   import ByteDecoder.*
 
-  private val HeaderSize: Int = CRC_SIZE + TIMESTAMP_SIZE + KEY_SIZE + VALUE_SIZE
+  val HeaderSize: Int = CRC_SIZE + TIMESTAMP_SIZE + KEY_SIZE + VALUE_SIZE
 
   def encode(header: EntryHeader): Array[Byte] =
     BytePacking.pack(
