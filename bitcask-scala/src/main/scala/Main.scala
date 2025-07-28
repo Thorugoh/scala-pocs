@@ -6,12 +6,12 @@ import scala.collection.mutable
 
 @main def cli(): Unit =
   val cli = BitcaskCLI("/Users/user/data.log")
-  cli.put("name1", "John")
-  cli.put("name2", "Mary")
+  cli.initialize()
 
-  val data = cli.get("name3")
+//  cli.put("name1", "John")
+//  cli.put("name4", "Mary")
+  val data = cli.get("name4")
   print(data)
-
 
 
 case class ValueData(fileId: String, valueSize: Int, valuePos: Int, timestamp: Int)
@@ -43,10 +43,35 @@ class BitcaskCLI(filePath: String):
     val buffer = new Array[Byte](data.get.valueSize)
     raf.seek(data.get.valuePos)
     raf.readFully(buffer)
+    raf.close()
 
     buffer.toUtf8String
 
+  def initialize(): Unit =
+    import ByteDecoder.*
+    val raf = RandomAccessFile(filePath, "r")
 
-  def updateWritePos(pos: Int): Int =
+    while(raf.getFilePointer < raf.length()) {
+      val headerBuffer = new Array[Byte](EntryHeader.HeaderSize)
+      raf.readFully(headerBuffer)
+      val header = EntryHeader.decode(headerBuffer)
+
+      val keyBuffer = new Array[Byte](header.keySize)
+      raf.readFully(keyBuffer)
+      val key = keyBuffer.toUtf8String
+
+      val valueBuffer = new Array[Byte](header.valueSize)
+      raf.readFully(valueBuffer)
+      val value = valueBuffer.toUtf8String
+
+      val valuePos = writePos + EntryHeader.HeaderSize + header.keySize
+      keyDir.addOne(key, ValueData(filePath, header.valueSize, valuePos, header.timestamp))
+
+      updateWritePos(EntryHeader.HeaderSize + header.keySize + header.valueSize)
+    }
+
+    raf.close()
+
+  private def updateWritePos(pos: Int): Int =
     writePos += pos
     writePos
