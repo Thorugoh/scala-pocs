@@ -3736,3 +3736,85 @@ WARNING: Unmatched cancel notification for request id 4007
 2025.07.16 09:12:04 INFO  time: compiled foundation_5407af399b in 0.18s
 2025.07.16 09:12:12 INFO  compiling foundation_5407af399b (1 scala source)
 2025.07.16 09:12:12 INFO  time: compiled foundation_5407af399b in 0.2s
+Jul 16, 2025 10:51:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4538
+Jul 16, 2025 6:47:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4548
+Jul 16, 2025 6:47:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4550
+Jul 17, 2025 12:44:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4574
+Jul 17, 2025 1:18:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4580
+Jul 17, 2025 2:38:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4592
+Jul 17, 2025 2:48:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4601
+Jul 17, 2025 4:50:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4610
+Jul 17, 2025 8:37:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4628
+Jul 18, 2025 2:31:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4670
+Jul 18, 2025 3:05:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4673
+Jul 18, 2025 3:40:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4682
+Jul 18, 2025 4:14:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4688
+Jul 18, 2025 5:23:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4692
+Jul 18, 2025 5:23:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4694
+Jul 18, 2025 7:18:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4706
+Jul 18, 2025 7:18:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4707
+2025.07.18 09:29:14 INFO  Shutting down server
+2025.07.18 09:29:14 INFO  shutting down Metals
+2025.07.18 09:29:14 INFO  Shut down connection with build server.
+2025.07.18 09:29:14 INFO  Exiting server
+2025.07.31 20:09:57 INFO  Started: Metals version 1.6.0 in folders '/Users/vhugo/repos/scala/foundation' for client Visual Studio Code 1.102.2.[0m
+2025.07.31 20:09:57 INFO  no build target found for /Users/vhugo/repos/scala/foundation/PackagesnamingConvention.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.31 20:09:58 INFO  Attempting to connect to the build server...[0m
+2025.07.31 20:09:58 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)[0m
+2025.07.31 20:09:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.07.31 20:09:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/PackagesnamingConvention.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.31 20:09:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/PackagesnamingConvention.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.31 20:10:00 INFO  BSP server: Starting compilation server[0m
+2025.07.31 20:09:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/PackagesnamingConvention.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.31 20:09:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/PackagesnamingConvention.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.31 20:09:59 INFO  no build target found for /Users/vhugo/repos/scala/foundation/PackagesnamingConvention.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+Jul 31, 2025 8:10:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Jul 31, 2025 8:10:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2025.07.31 20:10:01 INFO  no build target found for /Users/vhugo/repos/scala/foundation/PackagesnamingConvention.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.07.31 20:10:02 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.07.31 20:10:02 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.07.31 20:10:02 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.07.31 20:10:02 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.07.31 20:10:02 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.07.31 20:10:02 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.07.31 20:10:02 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.07.31 20:10:02 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.07.31 20:10:02 INFO  time: Connected to build server in 4.39s[0m
+2025.07.31 20:10:02 INFO  Connected to Build server: scala v1.7.1[0m
+2025.07.31 20:10:04 INFO  time: indexed workspace in 1.88s[0m
+2025.07.31 20:10:12 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Classes.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.31 20:10:12 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Classes.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.07.31 20:10:12 WARN  no build target for: /Users/vhugo/repos/scala/foundation/Classes.scala[0m
+2025.07.31 20:10:12 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Classes.scala[0m
+2025.07.31 20:10:12 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.31 20:10:12 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Classes.scala[0m
+2025.07.31 20:10:14 INFO  time: compiled foundation_5407af399b in 1.83s[0m
+2025.07.31 20:10:14 INFO  time: indexed workspace in 1.9s[0m
+2025.07.31 20:10:14 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Classes.scala[0m
+2025.07.31 20:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Classes.scala[0m
+2025.07.31 20:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Classes.scala[0m
+2025.07.31 20:10:28 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Classes.scala[0m
+2025.07.31 20:10:32 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Classes.scala[0m
+Jul 31, 2025 8:10:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 183
+2025.07.31 20:10:46 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.07.31 20:10:46 INFO  time: compiled foundation_5407af399b in 0.6s[0m
