@@ -3822,3 +3822,96 @@ Jul 31, 2025 8:11:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 440
 2025.07.31 20:11:33 INFO  compiling foundation_5407af399b (1 scala source)[0m
 2025.07.31 20:11:33 INFO  time: compiled foundation_5407af399b in 0.58s[0m
+Aug 01, 2025 7:17:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 762
+Aug 01, 2025 7:17:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 763
+Aug 03, 2025 8:25:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 768
+2025.08.03 21:10:00 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.08.03 21:10:00 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.08.03 21:10:00 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.08.03 21:10:00 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.08.03 21:10:00 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.08.03 21:10:00 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.08.03 21:10:00 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.08.03 21:10:00 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.08.03 21:10:01 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:01 INFO  time: compiled foundation_5407af399b in 0.33s[0m
+2025.08.03 21:10:01 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:01 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.08.03 21:10:01 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:10:01 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+Aug 03, 2025 9:10:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1302
+Aug 03, 2025 9:10:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1333
+2025.08.03 21:10:37 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:37 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.08.03 21:10:37 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:37 INFO  time: compiled foundation_5407af399b in 0.17s[0m
+2025.08.03 21:10:37 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:10:37 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+Aug 03, 2025 9:10:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1479
+2025.08.03 21:10:42 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:42 INFO  time: compiled foundation_5407af399b in 0.24s[0m
+2025.08.03 21:10:42 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:42 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.08.03 21:10:42 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:10:42 INFO  time: compiled foundation_5407af399b in 98ms[0m
+2025.08.03 21:10:52 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:52 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.08.03 21:10:52 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:10:52 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.08.03 21:10:52 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:10:52 INFO  time: compiled foundation_5407af399b in 84ms[0m
+2025.08.03 21:11:16 INFO  Shutting down server[0m
+2025.08.03 21:11:16 INFO  shutting down Metals[0m
+2025.08.03 21:11:16 INFO  Shut down connection with build server.[0m
+2025.08.03 21:11:16 INFO  Exiting server[0m
+2025.08.03 21:11:26 INFO  Started: Metals version 1.6.1 in folders '/Users/vhugo/repos/scala/foundation' for client Visual Studio Code 1.102.2.[0m
+2025.08.03 21:11:26 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.08.03 21:11:27 INFO  Attempting to connect to the build server...[0m
+2025.08.03 21:11:27 INFO  Running BSP server List(/Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli, --cli-default-scala-version, 3.7.0, --repository, file:///Users/vhugo/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/vhugo/repos/scala/foundation/.scala-build/ide-launcher-options.json, --envs-file, /Users/vhugo/repos/scala/foundation/.scala-build/ide-envs.json, /Users/vhugo/repos/scala/foundation)[0m
+2025.08.03 21:11:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/vhugo/repos/scala/foundation/.metals/bsp.trace.json or /Users/vhugo/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.08.03 21:11:27 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+Aug 03, 2025 9:11:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Aug 03, 2025 9:11:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Aug 03, 2025 9:11:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.08.03 21:11:29 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.08.03 21:11:29 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:11:29 INFO  time: Connected to build server in 1.95s[0m
+2025.08.03 21:11:29 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:11:29 INFO  Connected to Build server: scala v1.7.1[0m
+2025.08.03 21:11:29 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:11:29 INFO  compiling foundation_5407af399b (1 scala source)[0m
+Aug 03, 2025 9:11:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.08.03 21:11:29 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.08.03 21:11:29 INFO  compiling foundation_5407af399b (1 scala source)[0m
+Aug 03, 2025 9:11:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2025.08.03 21:11:29 INFO  no build target found for /Users/vhugo/repos/scala/foundation/LambdaFunctions.scala. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.08.03 21:11:29 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:11:29 INFO  time: Imported build in 0.51s[0m
+Aug 03, 2025 9:11:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Aug 03, 2025 9:11:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2025.08.03 21:11:31 INFO  time: indexed workspace in 1.97s[0m
+2025.08.03 21:11:31 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:11:31 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.08.03 21:11:31 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:11:31 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.08.03 21:11:31 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:11:31 INFO  time: compiled foundation_5407af399b in 79ms[0m
+2025.08.03 21:12:15 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:12:15 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.08.03 21:12:15 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.03 21:12:15 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.08.03 21:12:15 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.03 21:12:15 INFO  time: compiled foundation_5407af399b in 78ms[0m
