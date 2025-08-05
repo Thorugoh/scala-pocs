@@ -1,7 +1,10 @@
 @main 
 def calculatorTest(): Unit =
     val calculator = Calculator()
-    calculator.add(5).multiply(3).divide(5)
+    calculator
+        .add(5)
+        .divide(5)
+        .multiply(3)
 
     calculator.showResult()
 
