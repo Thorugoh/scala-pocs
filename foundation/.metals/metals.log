@@ -4006,3 +4006,187 @@ WARNING: Unmatched cancel notification for request id 1707
 2025.08.03 21:17:36 INFO  time: compiled foundation_5407af399b in 91ms[0m
 2025.08.03 21:17:36 INFO  compiling foundation_5407af399b (2 scala sources)[0m
 2025.08.03 21:17:36 INFO  time: compiled foundation_5407af399b in 68ms[0m
+Aug 04, 2025 12:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2000
+Aug 04, 2025 12:10:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2001
+Aug 04, 2025 9:34:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2006
+Aug 04, 2025 9:34:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2007
+Aug 05, 2025 2:16:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2013
+Aug 05, 2025 4:12:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2018
+Aug 05, 2025 4:12:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2019
+Aug 05, 2025 6:14:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2024
+Aug 05, 2025 6:14:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2025
+2025.08.05 20:14:14 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:14 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:14 WARN  no build target for: /Users/vhugo/repos/scala/foundation/Jetpack.scala[0m
+2025.08.05 20:14:15 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:15 WARN  Could not find semantic tokens for: file:///Users/vhugo/repos/scala/foundation/Jetpack.scala[0m
+2025.08.05 20:14:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.08.05 20:14:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/[0m
+2025.08.05 20:14:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.08.05 20:14:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit-test_3/maven-metadata.xml[0m
+2025.08.05 20:14:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.08.05 20:14:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  BSP server: Checking https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.08.05 20:14:16 INFO  BSP server: Checked https://repo1.maven.org/maven2/org/scala-lang/toolkit_3/maven-metadata.xml[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:17 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  time: compiled foundation_5407af399b in 0.73s[0m
+2025.08.05 20:14:16 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:14:17 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:16 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.08.05 20:14:16 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:14:17 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:17 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:17 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.08.05 20:14:17 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:18 INFO  time: Imported build in 1.42s[0m
+2025.08.05 20:14:18 INFO  no build target found for /Users/vhugo/repos/scala/foundation/Jetpack.scala. Using presentation compiler with project's scala-library version: 3.7.0[0m
+2025.08.05 20:14:17 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:14:17 INFO  time: compiled foundation_5407af399b in 0.27s[0m
+2025.08.05 20:14:17 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:14:17 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.08.05 20:14:17 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:14:17 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.08.05 20:14:19 INFO  time: indexed workspace in 1.34s[0m
+2025.08.05 20:14:19 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:14:19 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.08.05 20:14:19 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:14:19 INFO  time: compiled foundation_5407af399b in 0.15s[0m
+2025.08.05 20:14:19 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:14:19 INFO  time: compiled foundation_5407af399b in 85ms[0m
+2025.08.05 20:14:56 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:14:56 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.08.05 20:15:14 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:15:14 INFO  time: compiled foundation_5407af399b in 0.25s[0m
+2025.08.05 20:15:14 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:15:14 INFO  time: compiled foundation_5407af399b in 0.1s[0m
+2025.08.05 20:15:14 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:15:14 INFO  time: compiled foundation_5407af399b in 71ms[0m
+2025.08.05 20:15:24 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:15:24 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.08.05 20:15:24 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:15:24 INFO  time: compiled foundation_5407af399b in 0.12s[0m
+2025.08.05 20:15:24 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:15:24 INFO  time: compiled foundation_5407af399b in 71ms[0m
+Aug 05, 2025 8:15:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2724
+Aug 05, 2025 8:16:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2820
+2025.08.05 20:16:22 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:16:22 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.08.05 20:16:22 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:16:22 INFO  time: compiled foundation_5407af399b in 98ms[0m
+2025.08.05 20:16:22 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:16:22 INFO  time: compiled foundation_5407af399b in 68ms[0m
+2025.08.05 20:16:37 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:16:37 INFO  time: compiled foundation_5407af399b in 0.33s[0m
+2025.08.05 20:16:37 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:16:37 INFO  time: compiled foundation_5407af399b in 0.19s[0m
+2025.08.05 20:16:37 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:16:37 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.08.05 20:17:41 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:17:41 INFO  time: compiled foundation_5407af399b in 0.27s[0m
+2025.08.05 20:17:41 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:17:41 INFO  time: compiled foundation_5407af399b in 99ms[0m
+2025.08.05 20:17:41 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:17:41 INFO  time: compiled foundation_5407af399b in 64ms[0m
+2025.08.05 20:17:43 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:17:43 INFO  time: compiled foundation_5407af399b in 0.17s[0m
+2025.08.05 20:17:43 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:17:43 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.08.05 20:17:43 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:17:43 INFO  time: compiled foundation_5407af399b in 76ms[0m
+2025.08.05 20:18:21 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:18:21 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.08.05 20:18:21 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:18:21 INFO  time: compiled foundation_5407af399b in 91ms[0m
+2025.08.05 20:18:21 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:18:21 INFO  time: compiled foundation_5407af399b in 60ms[0m
+2025.08.05 20:19:16 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:19:16 INFO  time: compiled foundation_5407af399b in 0.17s[0m
+2025.08.05 20:19:24 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:19:24 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.08.05 20:19:24 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:19:24 INFO  time: compiled foundation_5407af399b in 97ms[0m
+2025.08.05 20:19:24 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:19:24 INFO  time: compiled foundation_5407af399b in 57ms[0m
+2025.08.05 20:19:44 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:19:44 INFO  time: compiled foundation_5407af399b in 0.21s[0m
+2025.08.05 20:19:44 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:19:44 INFO  time: compiled foundation_5407af399b in 0.1s[0m
+2025.08.05 20:19:44 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:19:44 INFO  time: compiled foundation_5407af399b in 70ms[0m
+2025.08.05 20:19:49 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:19:49 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.08.05 20:19:49 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:19:49 INFO  time: compiled foundation_5407af399b in 99ms[0m
+2025.08.05 20:19:49 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:19:49 INFO  time: compiled foundation_5407af399b in 63ms[0m
+2025.08.05 20:19:58 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:19:58 INFO  time: compiled foundation_5407af399b in 0.2s[0m
+2025.08.05 20:19:58 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:19:58 INFO  time: compiled foundation_5407af399b in 89ms[0m
+2025.08.05 20:19:58 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:19:58 INFO  time: compiled foundation_5407af399b in 72ms[0m
+2025.08.05 20:20:05 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:20:05 INFO  time: compiled foundation_5407af399b in 0.23s[0m
+2025.08.05 20:20:05 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:20:05 INFO  time: compiled foundation_5407af399b in 0.1s[0m
+2025.08.05 20:20:05 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:20:05 INFO  time: compiled foundation_5407af399b in 76ms[0m
+2025.08.05 20:20:21 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:20:21 INFO  time: compiled foundation_5407af399b in 0.21s[0m
+2025.08.05 20:20:21 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:20:21 INFO  time: compiled foundation_5407af399b in 96ms[0m
+2025.08.05 20:20:21 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:20:21 INFO  time: compiled foundation_5407af399b in 68ms[0m
+Aug 05, 2025 8:22:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4019
+2025.08.05 20:22:45 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:22:45 INFO  time: compiled foundation_5407af399b in 0.22s[0m
+2025.08.05 20:22:45 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:22:45 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.08.05 20:22:45 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:22:45 INFO  time: compiled foundation_5407af399b in 59ms[0m
+2025.08.05 20:22:49 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:22:49 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.08.05 20:22:49 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:22:49 INFO  time: compiled foundation_5407af399b in 0.11s[0m
+2025.08.05 20:22:49 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:22:49 INFO  time: compiled foundation_5407af399b in 68ms[0m
+2025.08.05 20:22:54 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:22:54 INFO  time: compiled foundation_5407af399b in 0.18s[0m
+2025.08.05 20:22:54 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:22:54 INFO  time: compiled foundation_5407af399b in 95ms[0m
+2025.08.05 20:22:54 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:22:54 INFO  time: compiled foundation_5407af399b in 65ms[0m
+2025.08.05 20:22:56 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:22:56 INFO  time: compiled foundation_5407af399b in 0.13s[0m
+2025.08.05 20:22:56 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:22:56 INFO  time: compiled foundation_5407af399b in 83ms[0m
+2025.08.05 20:22:56 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:22:56 INFO  time: compiled foundation_5407af399b in 56ms[0m
+2025.08.05 20:22:58 INFO  compiling foundation_5407af399b (3 scala sources)[0m
+2025.08.05 20:22:58 INFO  time: compiled foundation_5407af399b in 0.14s[0m
+2025.08.05 20:22:58 INFO  compiling foundation_5407af399b (1 scala source)[0m
+2025.08.05 20:22:58 INFO  time: compiled foundation_5407af399b in 79ms[0m
+2025.08.05 20:22:58 INFO  compiling foundation_5407af399b (2 scala sources)[0m
+2025.08.05 20:22:58 INFO  time: compiled foundation_5407af399b in 61ms[0m
