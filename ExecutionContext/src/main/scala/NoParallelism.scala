@@ -1,6 +1,9 @@
+import com.google.common.util.concurrent.ThreadFactoryBuilder
+
 import java.util.concurrent.Executors
 import scala.concurrent.ExecutionContext
 
+@main
 def noParallelism(): Unit = {
   val executorService = Executors.newFixedThreadPool(1,
     new ThreadFactoryBuilder().setNameFormat(s"app-thread-pool-%d").build())

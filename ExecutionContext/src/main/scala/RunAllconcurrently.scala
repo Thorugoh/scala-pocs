@@ -1,6 +1,9 @@
+import com.google.common.util.concurrent.ThreadFactoryBuilder
+
 import java.util.concurrent.Executors
 import scala.concurrent.ExecutionContext
 
+@main
 def runAllConcurrently(): Unit = {
   val executorService = Executors.newFixedThreadPool(2,
     new ThreadFactoryBuilder().setNameFormat(s"app-thread-pool-%d").build())
