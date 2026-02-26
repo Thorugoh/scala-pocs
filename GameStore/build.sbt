@@ -11,6 +11,7 @@ val jacksonVersion = "2.15.2"
 lazy val root = (project in file("."))
   .settings(
     name := "GameStore",
+    fork := true,
     libraryDependencies ++= Seq(
       "org.springframework.boot" % "spring-boot-starter-webflux" % springBootVersion,
       "org.springframework.boot" % "spring-boot-starter-jdbc" % springBootVersion,
