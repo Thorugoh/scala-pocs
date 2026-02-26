@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: "jdbc:postgresql://localhost:5432/gamestore"
-    username: ${DB_USERNAME:postgres}
-    password: ${DB_PASSWORD:}
+    username: ${POSTGRES_USER:}
+    password: ${POSTGRES_PASSWORD:}
     driver-class-name: org.postgresql.Driver
 
   # Actuator Configuration
