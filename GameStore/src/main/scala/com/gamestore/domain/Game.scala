@@ -10,5 +10,5 @@ import scala.annotation.meta.field
 case class Game(
     @(Id @field) id: UUID = null,
     title: String,
-    price: BigDecimal
+    price: java.math.BigDecimal
 )
