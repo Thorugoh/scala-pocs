@@ -14,7 +14,7 @@ lazy val root = (project in file("."))
     fork := true,
     libraryDependencies ++= Seq(
       "org.springframework.boot" % "spring-boot-starter-webflux" % springBootVersion,
-      "org.springframework.boot" % "spring-boot-starter-jdbc" % springBootVersion,
+      "org.springframework.boot" % "spring-boot-starter-data-jdbc" % springBootVersion,
       "org.springframework.boot" % "spring-boot-starter-actuator" % springBootVersion,
       "org.postgresql" % "postgresql" % postgreSqlVersion,
       "com.fasterxml.jackson.module" %% "jackson-module-scala" % jacksonVersion
